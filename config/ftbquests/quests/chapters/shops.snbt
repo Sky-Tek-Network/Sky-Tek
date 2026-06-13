@@ -1,0 +1,81 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "shops"
+	group: "5DE1D536931ECC2E"
+	id: "7FB0FC25258AD134"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "01DE688879E7C4CE"
+			rewards: [{
+				id: "6982FCDDB0603A51"
+				item: {
+					count: 1
+					id: "irons_spellbooks:keeper_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 256L
+				id: "22C186676DB268E6"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "61B43B4606F370B7"
+			rewards: [{
+				id: "5FDE6DFFDACE7B40"
+				item: {
+					count: 1
+					id: "minecraft:witch_spawn_egg"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 256L
+					id: "553F990B521CF422"
+					item: { count: 1, id: "minecraft:sugar" }
+					type: "item"
+				}
+				{
+					count: 256L
+					id: "729DF62C4FC1F8FE"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					count: 256L
+					id: "30DDF597C1E388BF"
+					item: { count: 1, id: "minecraft:glowstone_dust" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "6D8E4F3C12FC31E6"
+			rewards: [{
+				id: "57335DF56DF202D6"
+				item: {
+					count: 1
+					id: "ae2:mysterious_cube"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5360D9C678D3C67A"
+				item: { count: 1, id: "ae2:inscriber" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+	]
+}

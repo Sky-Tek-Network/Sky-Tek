@@ -1,0 +1,37 @@
+{
+	id: "45CCEDAF01681E86"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_12"
+	}
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ id: "400526FC88102AF8", item: { components: { "ftbquests:missing_item": "refinedstorage:quartz_enriched_iron" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "05A00EAB03BBB234", item: { components: { "ftbquests:missing_item": "refinedstorage:quartz_enriched_copper" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5F88DF18B3E7C002", item: { components: { "ftbquests:missing_item": "refinedstorage:silicon" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "58E8A9B2CCCF78F4", item: { components: { "ftbquests:missing_item": "refinedstorage:processor_binding" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "56B7BCB27588C258", item: { components: { "ftbquests:missing_item": "refinedstorage:raw_advanced_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "6FBAE977A07D8ED4", item: { components: { "ftbquests:missing_item": "refinedstorage:raw_improved_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "79D57F325B34BE7D", item: { components: { "ftbquests:missing_item": "refinedstorage:raw_basic_processor" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "04C9C711A6E88F80", item: { count: 1, id: "minecraft:quartz" } }
+		{ id: "74E0C67CA7670B2B", item: { count: 1, id: "minecraft:iron_ingot" } }
+		{ id: "6164B910C3BB92E3", item: { count: 1, id: "minecraft:slime_ball" } }
+		{ id: "0ADFB1F2EA28E5D0", item: { count: 1, id: "minecraft:redstone" } }
+		{ id: "1D7F5450B2ACAC01", item: { count: 1, id: "minecraft:glass" } }
+		{
+			count: 8
+			id: "4B308A5C419CC13B"
+			item: {
+				count: 1
+				id: "minecraft:stone"
+			}
+		}
+		{ id: "0D094CB1B83A6244", item: { components: { "ftbquests:missing_item": "refinedstorage:lime_cable" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

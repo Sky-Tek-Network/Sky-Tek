@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"ufo:infinity_lava_cell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"extendedcrafting:singularity","components":{"extendedcrafting:singularity_id":"extendedcrafting:coal"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,5 @@
+// Compost colors for dimstorage. You may add your own colors, change existing ones, or remove colors that aren't needed.
+dim_core, #aec2c5
+dim_wall, #bcc0bf
+dimensional_tablet, #a7ebf8
+solid_dim_core, #b5bcbb

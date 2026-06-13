@@ -1,0 +1,17 @@
+{
+  "name": "Time Crystal",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "tag": "justdirethings:time_crystal"
+  },
+  "color": "0cf01f",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  },
+  "crux": "justdirethings:time_crystal_block",
+  "recipes": {
+    "infusion": false
+  }
+}

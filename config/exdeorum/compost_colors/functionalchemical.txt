@@ -1,0 +1,3 @@
+// Compost colors for functionalchemical. You may add your own colors, change existing ones, or remove colors that aren't needed.
+adv_decay_upgrade, #a89393
+decay_upgrade, #97a593

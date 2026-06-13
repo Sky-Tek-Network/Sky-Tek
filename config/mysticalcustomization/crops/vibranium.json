@@ -1,0 +1,17 @@
+{
+  "name": "Vibranium",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "tag": "forge:storage_blocks/vibranium"
+  },
+  "color": "196e33",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  },
+  "crux": "allthemodium:vibranium_block",
+  "recipes": {
+    "infusion": false
+  }
+}

@@ -1,0 +1,365 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iron_jetpacks"
+	group: ""
+	id: "6C421430F3E5BDB4"
+	images: [
+		{
+			height: 5.0d
+			image: "ironjetpacks:item/jetpack"
+			rotation: 0.0d
+			width: 5.0d
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			height: 20.0d
+			image: "ftbquests:textures/shapes/gear/outline.png"
+			rotation: 0.0d
+			width: 20.0d
+			x: 9.0d
+			y: 1.0d
+		}
+	]
+	order_index: 14
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "26F1134556AA76E9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "131067D81D2BC0CD"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "1C98619A4D3B3537"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "6AC110F1138C8910"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:wood" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "69760B0E322D5632"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "64DE641FCE72673D"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "5430A3CFF667ADDB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "299932AD497787FD"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:copper" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "13FBAB6AB09E62FD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "381EFD36EFB6D481"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "6DC7757B1BD90619"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "67A862A28AB72414"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:stone" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "7B1005A743623D23"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5287AC1297AA50CF"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "7A4DFACC58C0F326"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "4BA6307A40C10159"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:bronze" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "2426EBC45BE46F68"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D7AE9F960AD57E0"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "3A240DBAB3C2F7BE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "4AB9411B3E5B67A9"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:iron" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "6C813E531E99C063"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A3CDE20BF8CC230"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "38B620AF35DFC1A3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2D5B0967B292CCEF"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:silver" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "28A5F8FCFC85099C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A9B6BB15DBBDF5E"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "55FB5A6338179712"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "005645DE333372F9"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:electrum" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "44F9BDB4B5EEE3CF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C97B3E45F5939E3"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "13F6E6022C1C6128"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "17BB5928203A866F"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:gold" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "5402C6F424D9D253"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A93D4FD078EE526"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "24FD9473C448B9D6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1B7B35AB15F686C8"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:invar" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "7E518FACD755B5E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50558FE8EB760624"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "7579F5F909F48BF5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "34F7AB4D73566FAD"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:steel" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "334EF7E9BA067955"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "21F3BB04A48C2C66"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "1508507257425583"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "2038D497AC576CBD"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:diamond" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "19758C7BFCD589A7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "29C3EA6D579F5E28"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "00D0A81A1AC15678"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "3FBF5089D0594D38"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:platinum" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0EC64274D9B85A3D"]
+			id: "4458756B37F939EA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F592F6EA53394FA"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "00197DDE162958BC"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "7856A5F37D1E5A90"
+				item: { components: { "ironjetpacks:jetpack_id": "ironjetpacks:emerald" }, count: 1, id: "ironjetpacks:jetpack" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["57BCC44741DF61C2"]
+			id: "0EC64274D9B85A3D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2BE3D45944097787"
+					table_id: 2380100013034158480L
+					type: "random"
+				}
+				{
+					id: "43C2CB94581D35F3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "1F06FF35813A95D0"
+				item: { count: 1, id: "ironjetpacks:strap" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+	]
+}

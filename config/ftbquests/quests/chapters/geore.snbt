@@ -1,0 +1,57 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "geore"
+	group: "5BAF2C31881E10FE"
+	icon: {
+		id: "geore:ruby_shard"
+	}
+	id: "7F2DA3F8B80B7881"
+	order_index: 19
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["4D931875AC9C0997"]
+		dependency_requirement: "one_completed"
+		id: "175E5AAB8700D269"
+		rewards: [
+			{
+				id: "2BC3AF6CC52A7707"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:fortune": 5
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:wooden_pickaxe"
+				}
+				type: "item"
+			}
+			{
+				count: 4
+				id: "56F4C94D11C46000"
+				item: {
+					count: 1
+					id: "minecraft:amethyst_shard"
+				}
+				type: "item"
+			}
+			{
+				id: "16F58B4CDDDC72F0"
+				item: {
+					count: 1
+					id: "minecraft:coal_block"
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "7736C3294D94739B"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

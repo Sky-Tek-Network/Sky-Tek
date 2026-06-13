@@ -1,0 +1,166 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ind"
+	group: ""
+	id: "5A9A4CAC0B71BB20"
+	images: [{
+		height: 5.0d
+		image: "irons_spellbooks:textures/gui/spell_icons/snowball.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 1.0d
+		y: 5.0d
+	}]
+	order_index: 21
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"20270168E353AD7B"
+				"3099D86AA0C2DC42"
+			]
+			id: "089860B001D89AD5"
+			rewards: [
+				{
+					id: "20FA6EE0745CB163"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "512B86E26C9B2184"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "73DE16EA91B628B6"
+				item: { count: 1, id: "ifeu:ultimate_machine_frame" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["04272CE2FB6A6589"]
+			id: "119A337C0D0CFA91"
+			rewards: [
+				{
+					id: "122165FDD322C7D7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08C11CEA8D955F73"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2F3E56D2CB49F612"
+				item: { count: 1, id: "ifeu:infuser" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["089860B001D89AD5"]
+			id: "76E501D3396D74A9"
+			rewards: [
+				{
+					id: "36DAA5123BB2EE77"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64F30E2DF4C8A218"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5DE5AFA98A21660A"
+				item: { count: 1, id: "ifeu:dragon_star_generator" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["089860B001D89AD5"]
+			id: "0A4D114DE2F9C361"
+			rewards: [
+				{
+					id: "6B96A7703BA2500F"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "47E4467ED7CF9ED6"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "112C117201B757D2"
+				item: { count: 1, id: "ifeu:rule_controller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["089860B001D89AD5"]
+			id: "2199AE7BFB5B456D"
+			rewards: [
+				{
+					id: "74525034C9C91FAC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FB418D1AC9F5CEE"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "57ADCAB40514BFFE"
+				item: { count: 1, id: "ifeu:weather_controller" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["089860B001D89AD5"]
+			id: "24CEA65927B3A3E7"
+			rewards: [
+				{
+					id: "290B8CAACE57831B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "00980605ECCB702A"
+					table_id: 4282894719594653350L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5D63CEBF4111F680"
+				item: { count: 1, id: "ifeu:time_controller" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+	]
+}

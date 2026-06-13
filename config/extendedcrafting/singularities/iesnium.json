@@ -1,0 +1,11 @@
+{
+  "name": "Iesnium",
+  "colors": [
+    "B8A08F",
+    "B8A08F"
+  ],
+  "ingredient": {
+    "item": "occultism:iesnium_ingot"
+  },
+  "inUltimateSingularity": true
+}

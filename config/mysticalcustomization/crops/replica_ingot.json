@@ -1,0 +1,17 @@
+{
+  "name": "Replica Ingot",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "tag": "replication:replica_ingot"
+  },
+  "color": "000000",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  },
+  "crux": "replication:replica_block",
+  "recipes": {
+    "infusion": false
+  }
+}

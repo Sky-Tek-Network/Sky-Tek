@@ -1,0 +1,75 @@
+{
+	id: "7AA7F06B0B174FD2"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_11"
+	}
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ id: "53AFBBFB9E1BB4BD", item: { count: 1, id: "immersiveengineering:ingot_aluminum" } }
+		{ id: "3722773ADBF6E3CC", item: { count: 1, id: "immersiveengineering:conveyor_basic" } }
+		{ id: "2395F4FA12481430", item: { count: 1, id: "immersiveengineering:ingot_uranium" } }
+		{ id: "345ECB8D64F7875D", item: { count: 1, id: "immersiveengineering:hemp_fabric" } }
+		{ id: "35AB1F84CF605231", item: { count: 1, id: "immersiveengineering:shovel_steel" } }
+		{ id: "7A30AC4E6106ED6A", item: { count: 1, id: "immersiveengineering:ingot_constantan" } }
+		{ id: "0F882D951DFC0F44", item: { count: 1, id: "immersiveengineering:earmuffs" } }
+		{ id: "12B0AC0CBDFA34A0", item: { count: 1, id: "immersiveengineering:ingot_steel" } }
+		{ id: "01E2E62FAAF8FC62", item: { count: 1, id: "immersiveengineering:hammer" } }
+		{ id: "26703F4300CA49E1", item: { count: 1, id: "immersiveengineering:axe_steel" } }
+		{
+			count: 8
+			id: "78D0B4DCA99410F6"
+			item: {
+				count: 1
+				id: "immersiveengineering:strip_curtain"
+			}
+		}
+		{ id: "37BB42C20A8CA5CB", item: { count: 1, id: "immersiveengineering:seed" } }
+		{ id: "1E1154C5E709830C", item: { count: 1, id: "immersiveengineering:stick_treated" } }
+		{ id: "32786D1C3ADF834F", item: { count: 1, id: "immersiveengineering:ingot_electrum" } }
+		{ id: "7B1E2D44E5B58C61", item: { count: 1, id: "immersiveengineering:alu_window" } }
+		{ id: "00549DEAE5335915", item: { count: 1, id: "immersiveengineering:balloon" } }
+		{
+			count: 8
+			id: "2B8774BDD2448175"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 8
+			id: "52017D42F9EDE652"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+		{
+			count: 8
+			id: "60F4944F942A6DEA"
+			item: {
+				components: {
+					"ftbquests:missing_item": "refinedstorage:quartz_enriched_copper"
+				}
+				count: 1
+				id: "ftbquests:missing_item"
+			}
+		}
+		{
+			count: 8
+			id: "1085209FB11FBBC5"
+			item: {
+				count: 1
+				id: "minecraft:oak_sapling"
+			}
+		}
+		{ id: "6D45307A5B95E0B2", item: { count: 1, id: "immersiveengineering:creosote_bucket" } }
+	]
+}

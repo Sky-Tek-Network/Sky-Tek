@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:heart_of_the_sea"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:conduit"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"generatorgalore:magmatic_generator_64x"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"generatorgalore:magmatic_generator_8x"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:echo_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

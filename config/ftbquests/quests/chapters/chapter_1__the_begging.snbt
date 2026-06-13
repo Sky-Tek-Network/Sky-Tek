@@ -1,0 +1,693 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_1__the_begging"
+	group: "7ADDDA79E5AB2C62"
+	icon: {
+		id: "minecraft:apple"
+	}
+	id: "1B1D509DF930B236"
+	images: [
+		{
+			height: 1.0d
+			image: "fancymenu:textures/contextmenu/icons/arrow_down.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "alltheores:block/uranium_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "allthemodium:block/fluid/soul_lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "mekanism:block/superheating_element"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3805AEB7C3B5BAA1"
+			rewards: [{
+				count: 32
+				id: "23A5ADF761ACC679"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "481B9BADE45EB1D1"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "28B1D9B4FBFC9E32"
+			rewards: [{
+				id: "6CCDA1DF1BE29F26"
+				item: {
+					count: 1
+					id: "minecraft:oak_sapling"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DD04E34F9D80A03"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3805AEB7C3B5BAA1"]
+			id: "1D11093A4FB33EAD"
+			rewards: [{
+				count: 16
+				id: "2476A16F115415EB"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5C206B8BA1B93068"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1D11093A4FB33EAD"]
+			id: "05C7253F6E2F304F"
+			rewards: [{
+				id: "1CDF4CCA7D3660E0"
+				item: {
+					count: 1
+					id: "exdeorum:bone_crook"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1ADC15CE83B1DA54"
+				item: { count: 1, id: "exdeorum:crook" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1D11093A4FB33EAD"]
+			id: "4E2E7C32A29DC862"
+			tasks: [{
+				id: "67CCF65B58AE4023"
+				item: { count: 1, id: "exdeorum:oak_sieve" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["05C7253F6E2F304F"]
+			id: "36E77E108350BC5A"
+			rewards: [{
+				count: 4
+				id: "28892E493B6C57BB"
+				item: {
+					count: 1
+					id: "exdeorum:silkworm"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F1EE5C0044CE249"
+				item: { count: 1, id: "exdeorum:silkworm" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36E77E108350BC5A"]
+			id: "51DF502C9D4028AE"
+			rewards: [{
+				count: 16
+				id: "214EA10C27C3729A"
+				item: {
+					count: 1
+					id: "minecraft:string"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "22B7BBCF726C07C6"
+					item: { count: 1, id: "minecraft:string" }
+					type: "item"
+				}
+				{
+					id: "08314342A3D55AB2"
+					item: { count: 1, id: "minecraft:cobweb" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"4E2E7C32A29DC862"
+				"51DF502C9D4028AE"
+			]
+			id: "69F50CB3DED86B44"
+			rewards: [{
+				count: 32
+				id: "05945F776EC602CD"
+				item: {
+					count: 1
+					id: "minecraft:string"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "211B16D089777A0C"
+				item: { count: 1, id: "exdeorum:string_mesh" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["69F50CB3DED86B44"]
+			id: "18B4B5E2313BB782"
+			rewards: [{
+				count: 16
+				id: "7B26E17D748C2293"
+				item: {
+					count: 1
+					id: "minecraft:flint"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "31B925225ED5AB11"
+				item: { count: 1, id: "exdeorum:flint_mesh" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["18B4B5E2313BB782"]
+			id: "73E1C783020D1644"
+			rewards: [{
+				id: "7EC2CFDCA6A59FB1"
+				item: {
+					count: 1
+					id: "minecraft:raw_iron"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "25157F90B9EFD0AA"
+				item: { count: 1, id: "exdeorum:iron_ore_chunk" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["18B4B5E2313BB782"]
+			id: "2C27D9FC9E6C1539"
+			rewards: [{
+				count: 4
+				id: "287DFBFAE5F91AD2"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57DB56D6F86EA3DD"
+				item: { count: 1, id: "exdeorum:iron_mesh" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C27D9FC9E6C1539"]
+			id: "187DE2CB43EDC3C0"
+			rewards: [{
+				count: 4
+				id: "2051509A0EBE07F5"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F00D78ACC08C643"
+				item: { count: 1, id: "exdeorum:golden_mesh" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["187DE2CB43EDC3C0"]
+			id: "5901DACAAC4944A8"
+			rewards: [{
+				count: 4
+				id: "1F7E6AA82F17CBF4"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "52B694908654A04A"
+				item: { count: 1, id: "exdeorum:diamond_mesh" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5901DACAAC4944A8"]
+			id: "112E273DEBC39623"
+			rewards: [{
+				id: "3E20FD6B51F9A25B"
+				item: {
+					count: 1
+					id: "minecraft:netherite_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BEBA992D91295F2"
+				item: { count: 1, id: "exdeorum:netherite_mesh" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["69F50CB3DED86B44"]
+			id: "4DEC9FB9CDF119FE"
+			tasks: [{
+				id: "34B93416CF6F5083"
+				item: { count: 1, id: "exdeorum:stone_pebble" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4DEC9FB9CDF119FE"]
+			id: "754444F0AE49C454"
+			rewards: [{
+				id: "47E946220F3D284D"
+				item: {
+					count: 1
+					id: "allthecompressed:cobblestone_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7965A56828F19053"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["754444F0AE49C454"]
+			id: "508915B9E3FA96CE"
+			rewards: [{
+				id: "3AC4E73295CA7DFF"
+				item: {
+					count: 1
+					id: "allthecompressed:gravel_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0630C27D51B2846C"
+				item: { count: 1, id: "minecraft:gravel" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["508915B9E3FA96CE"]
+			id: "4A5C3BC667D3E0D5"
+			rewards: [{
+				id: "11CD8B6213290EAB"
+				item: {
+					count: 1
+					id: "allthecompressed:sand_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D28DBF657B08789"
+				item: { count: 1, id: "minecraft:sand" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4A5C3BC667D3E0D5"]
+			id: "09F28AC398180125"
+			rewards: [{
+				id: "00C2A3A88CEC29C2"
+				item: {
+					count: 1
+					id: "allthecompressed:dust_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A26D95058A17636"
+				item: { count: 1, id: "exdeorum:dust" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["1D11093A4FB33EAD"]
+			id: "5FEE3958D8365801"
+			rewards: [{
+				id: "34AF290E4CF41BB8"
+				item: {
+					count: 1
+					id: "exdeorum:oak_crucible"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "529FABC4AFCC8B33"
+				item: { count: 1, id: "exdeorum:oak_crucible" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1D11093A4FB33EAD"]
+			id: "683B6BE52D7DCC96"
+			rewards: [{
+				id: "7091B705BDB5526D"
+				item: {
+					count: 1
+					id: "exdeorum:oak_barrel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3794ADC32D0BE8F1"
+				item: { count: 1, id: "exdeorum:oak_barrel" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5FEE3958D8365801"]
+			id: "63C173F8D219B3B2"
+			rewards: [{
+				id: "4F915193B0841526"
+				item: {
+					count: 1
+					id: "minecraft:water_bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E9C336BC0AF88AA"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"683B6BE52D7DCC96"
+				"63C173F8D219B3B2"
+			]
+			id: "46290DE409444085"
+			rewards: [{
+				count: 4
+				id: "3BDBCD0E58FFB216"
+				item: {
+					count: 1
+					id: "minecraft:clay"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "34C44E3E9E4B0800"
+				item: { count: 1, id: "minecraft:clay" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["46290DE409444085"]
+			id: "4F35034813F40315"
+			rewards: [{
+				count: 16
+				id: "4277898971A74AEF"
+				item: {
+					count: 1
+					id: "minecraft:clay_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "61DEC59FF50386EA"
+				item: { count: 1, id: "minecraft:clay_ball" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4F35034813F40315"]
+			id: "3E98D75179CD4E96"
+			rewards: [{
+				count: 4
+				id: "59CBAB88E6F32212"
+				item: {
+					count: 1
+					id: "minecraft:brick"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "573EAA7C30E81476"
+				item: { count: 1, id: "minecraft:brick" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3E98D75179CD4E96"]
+			id: "301467235ABC09A8"
+			rewards: [{
+				count: 4
+				id: "00B67156F722D293"
+				item: {
+					count: 1
+					id: "minecraft:bricks"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "45DD9F5F8BF3E1DE"
+				item: { count: 1, id: "minecraft:bricks" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4A5C3BC667D3E0D5"]
+			id: "25FBFFB5002AA21D"
+			rewards: [{
+				id: "7F2A488F25BEA1C7"
+				item: {
+					count: 1
+					id: "allthecompressed:sand_1x"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E4CA8E202AE26A4"
+				item: { count: 1, id: "allthecompressed:sand_1x" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"3E98D75179CD4E96"
+				"301467235ABC09A8"
+				"25FBFFB5002AA21D"
+			]
+			id: "4D931875AC9C0997"
+			rewards: [{
+				count: 3
+				id: "6ABE434336DAEBA4"
+				item: {
+					count: 1
+					id: "immersiveengineering:cokebrick"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "52C34BE390BD3404"
+				item: { count: 1, id: "immersiveengineering:cokebrick" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			id: "7F424E980BFB1C9D"
+			rewards: [
+				{
+					id: "5DE14B98BD196AE0"
+					item: {
+						count: 1
+						id: "create:crimsite"
+					}
+					type: "item"
+				}
+				{
+					id: "4162A56BA156DA40"
+					item: {
+						count: 1
+						id: "create:asurine"
+					}
+					type: "item"
+				}
+				{
+					id: "0F1E6F77312E1343"
+					item: {
+						count: 1
+						id: "create:veridium"
+					}
+					type: "item"
+				}
+				{
+					id: "38597DE612801E20"
+					item: {
+						count: 1
+						id: "create:ochrum"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7916D2DD10BA03F1"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4F35034813F40315"]
+			id: "46EE7108118AC304"
+			rewards: [{
+				count: 7
+				id: "2460A00211F51C66"
+				item: {
+					count: 1
+					id: "exdeorum:porcelain_clay_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5837CBD18175618D"
+				item: { count: 1, id: "exdeorum:porcelain_clay_ball" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["46EE7108118AC304"]
+			id: "5756631654827FB1"
+			rewards: [{
+				id: "7AE33A55F27094C0"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BFE247BC5F57B69"
+				item: { count: 1, id: "exdeorum:unfired_porcelain_crucible" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["5756631654827FB1"]
+			id: "4B169B23FF62F841"
+			rewards: [{
+				id: "28ABEE3ACE60072E"
+				item: {
+					count: 1
+					id: "alltheores:uranium_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6826DB27D78BB5FA"
+				item: { count: 1, id: "exdeorum:porcelain_crucible" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+	]
+}

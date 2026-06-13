@@ -1,0 +1,144 @@
+{
+	id: "5EC688221872D397"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "_"
+	}
+	loot_size: 1
+	order_index: 25
+	rewards: [
+		{ id: "68485679429818D6", item: { count: 1, id: "minecraft:iron_nugget" } }
+		{ id: "4C4994E6316FE1D4", item: { count: 1, id: "minecraft:gold_nugget" } }
+		{ id: "4BBE1F84C0830D6E", item: { count: 1, id: "enderio:conductive_alloy_nugget" } }
+		{ id: "3BF00F400970171A", item: { count: 1, id: "enderio:energetic_alloy_nugget" } }
+		{ id: "41D5ACDC3E9B9B02", item: { count: 1, id: "enderio:vibrant_alloy_nugget" } }
+		{ id: "7A06640C275F2A30", item: { count: 1, id: "enderio:redstone_alloy_nugget" } }
+		{ id: "4172FBB4B3659A03", item: { count: 1, id: "enderio:conductive_alloy_nugget" } }
+		{ id: "0AFEAD4005435B8E", item: { count: 1, id: "enderio:pulsating_alloy_nugget" } }
+		{ id: "50CD451D88114DD4", item: { count: 1, id: "enderio:dark_steel_nugget" } }
+		{ id: "4D6A39347C3453E9", item: { count: 1, id: "enderio:soularium_nugget" } }
+		{ id: "45FF93552D99F3FB", item: { count: 1, id: "enderio:end_steel_nugget" } }
+		{ id: "43259EDEFB665E43", item: { count: 1, id: "silentgear:crimson_iron_nugget" } }
+		{ id: "7A572DDAE3B69B49", item: { count: 1, id: "silentgear:crimson_steel_nugget" } }
+		{ id: "3EBA105BF7882003", item: { count: 1, id: "silentgear:blaze_gold_nugget" } }
+		{ id: "2FA33447EDAB063D", item: { count: 1, id: "silentgear:azure_silver_nugget" } }
+		{ id: "5760E21DDC6A4C83", item: { count: 1, id: "silentgear:azure_electrum_nugget" } }
+		{ id: "279F0A96752B5DD7", item: { count: 1, id: "mekanism:nugget_refined_obsidian" } }
+		{ id: "7AC6D93A29570DEE", item: { count: 1, id: "mekanism:nugget_bronze" } }
+		{ id: "7E5773E6DC8D5851", item: { count: 1, id: "mekanism:nugget_refined_glowstone" } }
+		{ id: "087DE61E574F8DDF", item: { count: 1, id: "mekanism:nugget_steel" } }
+		{ id: "19E145448508F3F1", item: { count: 1, id: "mekanism:nugget_osmium" } }
+		{ id: "3E3BE21DD3FE179A", item: { count: 1, id: "mekanism:nugget_tin" } }
+		{ id: "0F5311298E28A8E2", item: { count: 1, id: "mekanism:nugget_lead" } }
+		{ id: "57A07F0E02C064BA", item: { count: 1, id: "mekanism:nugget_uranium" } }
+		{ id: "66A3103C4F87BC7A", item: { count: 1, id: "industrialupgrade:nugget/mikhail" } }
+		{ id: "331A0E474642A0BC", item: { count: 1, id: "industrialupgrade:nugget/aluminium" } }
+		{ id: "415A91E3A5127E86", item: { count: 1, id: "industrialupgrade:nugget/vanadium" } }
+		{ id: "714DC049A36A3529", item: { count: 1, id: "industrialupgrade:nugget/tungsten" } }
+		{ id: "2AEFAAA1C6CB527F", item: { count: 1, id: "industrialupgrade:nugget/invar" } }
+		{ id: "160326F5455C9667", item: { count: 1, id: "industrialupgrade:nugget/caravky" } }
+		{ id: "6C12712DE5F4C961", item: { count: 1, id: "industrialupgrade:nugget/cobalt" } }
+		{ id: "0E92C41BAE63B81C", item: { count: 1, id: "industrialupgrade:nugget/magnesium" } }
+		{ id: "2019C3B723560EB8", item: { count: 1, id: "industrialupgrade:nugget/nickel" } }
+		{ id: "64E49835D40B7E90", item: { count: 1, id: "industrialupgrade:nugget/platinum" } }
+		{ id: "3E7C432347411DA1", item: { count: 1, id: "industrialupgrade:nugget/titanium" } }
+		{ id: "1E07D0138BB4B4B1", item: { count: 1, id: "industrialupgrade:nugget/chromium" } }
+		{ id: "66B9D727809B003E", item: { count: 1, id: "industrialupgrade:nugget/spinel" } }
+		{ id: "41FB819D28B9C87D", item: { count: 1, id: "industrialupgrade:nugget/electrum" } }
+		{ id: "02586FB73178E7F1", item: { count: 1, id: "industrialupgrade:nugget/silver" } }
+		{ id: "01576689237FC143", item: { count: 1, id: "industrialupgrade:nugget/zinc" } }
+		{ id: "506D1C5E59ACD895", item: { count: 1, id: "industrialupgrade:nugget/manganese" } }
+		{ id: "57FAA697C65548D1", item: { count: 1, id: "industrialupgrade:nugget/iridium" } }
+		{ id: "1B5E0FAFB1000EBE", item: { count: 1, id: "industrialupgrade:nugget/germanium" } }
+		{ id: "20A0759929783BCF", item: { count: 1, id: "industrialupgrade:nugget/osmium" } }
+		{ id: "12152D6400E6DBCD", item: { count: 1, id: "industrialupgrade:nugget/tantalum" } }
+		{ id: "774CBC57E9101AA1", item: { count: 1, id: "industrialupgrade:nugget/cadmium" } }
+		{ id: "433E4619A458E6F5", item: { count: 1, id: "industrialupgrade:nugget/arsenic" } }
+		{ id: "340B7368D067BB34", item: { count: 1, id: "industrialupgrade:nugget/barium" } }
+		{ id: "77CEA59DA418E120", item: { count: 1, id: "industrialupgrade:nugget/bismuth" } }
+		{ id: "70D03B132981C0C1", item: { count: 1, id: "industrialupgrade:nugget/gadolinium" } }
+		{ id: "7B383787EF8CD743", item: { count: 1, id: "industrialupgrade:nugget/hafnium" } }
+		{ id: "340EF11CEB7BBEEE", item: { count: 1, id: "industrialupgrade:nugget/yttrium" } }
+		{ id: "7A0FFD9E8276B962", item: { count: 1, id: "industrialupgrade:nugget/molybdenum" } }
+		{ id: "4226F3B76BFF1EF9", item: { count: 1, id: "industrialupgrade:nugget/neodymium" } }
+		{ id: "4F1BA236E8BC91DC", item: { count: 1, id: "industrialupgrade:nugget/niobium" } }
+		{ id: "0D6164CBEF26C855", item: { count: 1, id: "industrialupgrade:nugget/palladium" } }
+		{ id: "04761C2268C36255", item: { count: 1, id: "industrialupgrade:nugget/polonium" } }
+		{ id: "34B41D53CD966BE7", item: { count: 1, id: "industrialupgrade:nugget/strontium" } }
+		{ id: "192E55CAD1265289", item: { count: 1, id: "industrialupgrade:nugget/thallium" } }
+		{ id: "12A65FBF454AB3CF", item: { count: 1, id: "industrialupgrade:nugget/zirconium" } }
+		{ id: "5CD7CF1CB90B5550", item: { count: 1, id: "industrialupgrade:alloynugget/aluminum_bronze" } }
+		{ id: "24D186A19856DD48", item: { count: 1, id: "industrialupgrade:alloynugget/alumel" } }
+		{ id: "5A93DCD76EA911BE", item: { count: 1, id: "industrialupgrade:alloynugget/red_brass" } }
+		{ id: "6A7A572A8E06705B", item: { count: 1, id: "industrialupgrade:alloynugget/muntsa" } }
+		{ id: "1CDB7D8E4426EEEF", item: { count: 1, id: "industrialupgrade:alloynugget/nichrome" } }
+		{ id: "53175EFB886D6766", item: { count: 1, id: "industrialupgrade:alloynugget/alcled" } }
+		{ id: "369AA3A6C19582CA", item: { count: 1, id: "industrialupgrade:alloynugget/vanadoalumite" } }
+		{ id: "6B353EF0670772FD", item: { count: 1, id: "industrialupgrade:alloynugget/vitalium" } }
+		{ id: "2277CFCCDE33A462", item: { count: 1, id: "industrialupgrade:alloynugget/duralumin" } }
+		{ id: "785568C2B8B7BB69", item: { count: 1, id: "industrialupgrade:alloynugget/ferromanganese" } }
+		{ id: "5770D4377FEB6A30", item: { count: 1, id: "industrialupgrade:alloynugget/aluminium_silicon" } }
+		{ id: "3F10D29FF40058E2", item: { count: 1, id: "industrialupgrade:alloynugget/beryllium_bronze" } }
+		{ id: "4F0520A27D279182", item: { count: 1, id: "industrialupgrade:alloynugget/zeliber" } }
+		{ id: "4A1614CDC1E8B1E4", item: { count: 1, id: "industrialupgrade:alloynugget/stainless_steel" } }
+		{ id: "544CA9E5A0AC5513", item: { count: 1, id: "industrialupgrade:alloynugget/inconel" } }
+		{ id: "48919761E74F5725", item: { count: 1, id: "industrialupgrade:alloynugget/nitenol" } }
+		{ id: "4EFDBC8EBE7078EB", item: { count: 1, id: "industrialupgrade:alloynugget/stellite" } }
+		{ id: "7C838FD39E94C853", item: { count: 1, id: "industrialupgrade:alloynugget/hafnium_boride_alloy" } }
+		{ id: "6977B6740C508862", item: { count: 1, id: "industrialupgrade:alloynugget/woods" } }
+		{ id: "34793976558AA172", item: { count: 1, id: "industrialupgrade:alloynugget/nimonic" } }
+		{ id: "39E9D19D5137C748", item: { count: 1, id: "industrialupgrade:alloynugget/tantalum_tungsten_hafnium" } }
+		{ id: "6856DC2B5573C275", item: { count: 1, id: "industrialupgrade:alloynugget/permalloy" } }
+		{ id: "13AD1B793586F248", item: { count: 1, id: "industrialupgrade:alloynugget/aluminium_lithium_alloy" } }
+		{ id: "12DD7362056A64C8", item: { count: 1, id: "industrialupgrade:alloynugget/cobalt_chrome" } }
+		{ id: "39F05F3DA5DB0041", item: { count: 1, id: "industrialupgrade:alloynugget/hafnium_carbide" } }
+		{ id: "4B3AEA6002489EC3", item: { count: 1, id: "industrialupgrade:alloynugget/molybdenum_steel" } }
+		{ id: "3686A256C4339839", item: { count: 1, id: "industrialupgrade:alloynugget/niobium_titanium" } }
+		{ id: "1501AA59D584631C", item: { count: 1, id: "mysticalagriculture:prudentium_nugget" } }
+		{ id: "7E126F60B7038F73", item: { count: 1, id: "mysticalagriculture:tertium_nugget" } }
+		{ id: "41E8B24BF55D5377", item: { count: 1, id: "mysticalagriculture:imperium_nugget" } }
+		{ id: "4B0CAD43D6A0888B", item: { count: 1, id: "mysticalagriculture:supremium_nugget" } }
+		{ id: "6D2A6405ED883FD6", item: { count: 1, id: "mysticalagriculture:awakened_supremium_nugget" } }
+		{ id: "3611D73839006EFC", item: { count: 1, id: "mysticalagriculture:soulium_nugget" } }
+		{ id: "157C8CC004B33424", item: { count: 1, id: "mysticalagradditions:insanium_nugget" } }
+		{ id: "0373BFE03CBF71BF", item: { count: 1, id: "alltheores:aluminum_nugget" } }
+		{ id: "711FC158E2211B09", item: { count: 1, id: "alltheores:lead_nugget" } }
+		{ id: "3835AFB0B967800C", item: { count: 1, id: "alltheores:nickel_nugget" } }
+		{ id: "77FEEB2CE351C289", item: { count: 1, id: "alltheores:osmium_nugget" } }
+		{ id: "6D7B31C4DD8058AE", item: { count: 1, id: "alltheores:platinum_nugget" } }
+		{ id: "7F9469A1E03D6A81", item: { count: 1, id: "alltheores:silver_nugget" } }
+		{ id: "14C6203B8B5F235E", item: { count: 1, id: "alltheores:tin_nugget" } }
+		{ id: "00ED9B6FDA109337", item: { count: 1, id: "alltheores:uranium_nugget" } }
+		{ id: "72EFD4BCCE4DAD9D", item: { count: 1, id: "alltheores:zinc_nugget" } }
+		{ id: "1E46578454B56E16", item: { count: 1, id: "alltheores:iridium_nugget" } }
+		{ id: "6380C0EE91424127", item: { count: 1, id: "alltheores:steel_nugget" } }
+		{ id: "21B2AE343B7CCF60", item: { count: 1, id: "alltheores:invar_nugget" } }
+		{ id: "218490100859A9D6", item: { count: 1, id: "alltheores:electrum_nugget" } }
+		{ id: "4843BC333588AAC6", item: { count: 1, id: "alltheores:bronze_nugget" } }
+		{ id: "4FA85F9950E15A3F", item: { count: 1, id: "alltheores:brass_nugget" } }
+		{ id: "58339426D89C9F46", item: { count: 1, id: "alltheores:lumium_nugget" } }
+		{ id: "3290228EBE3A1A2C", item: { count: 1, id: "alltheores:signalum_nugget" } }
+		{ id: "73450F3C099E8E9F", item: { count: 1, id: "alltheores:constantan_nugget" } }
+		{ id: "26FE3FDB6858245B", item: { count: 1, id: "alltheores:copper_nugget" } }
+		{ id: "0E7ED736A45D270C", item: { count: 1, id: "immersiveengineering:nugget_copper" } }
+		{ id: "238A3EA5FD6B914F", item: { count: 1, id: "immersiveengineering:nugget_aluminum" } }
+		{ id: "4EB79C93765B2CFB", item: { count: 1, id: "immersiveengineering:nugget_lead" } }
+		{ id: "10485A9C847753BE", item: { count: 1, id: "immersiveengineering:nugget_silver" } }
+		{ id: "05163B1D636E7FFF", item: { count: 1, id: "immersiveengineering:nugget_nickel" } }
+		{ id: "754E06A2C6D73E68", item: { count: 1, id: "immersiveengineering:nugget_uranium" } }
+		{ id: "697B751E7C879E53", item: { count: 1, id: "immersiveengineering:nugget_constantan" } }
+		{ id: "5655EFA2445FCC28", item: { count: 1, id: "immersiveengineering:nugget_electrum" } }
+		{ id: "33208B1AA9FD50D6", item: { count: 1, id: "immersiveengineering:nugget_steel" } }
+		{ id: "6B48E8EF8FCC3CDB", item: { count: 1, id: "allthemodium:allthemodium_nugget" } }
+		{ id: "2B73F938A8DBB264", item: { count: 1, id: "allthemodium:vibranium_nugget" } }
+		{ id: "3322F8B6867FECF6", item: { count: 1, id: "allthemodium:unobtainium_nugget" } }
+		{ id: "3FCAC504259BB82E", item: { count: 1, id: "oritech:nickel_nugget" } }
+		{ id: "696E0E2FFFB33FE0", item: { count: 1, id: "oritech:platinum_nugget" } }
+		{ id: "7F3A9BB24AA67023", item: { count: 1, id: "oritech:copper_nugget" } }
+	]
+}

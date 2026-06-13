@@ -1,0 +1,4 @@
+// Compost colors for capacitoradditions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+allthemodium_capacitor, #ffe073
+unobtainium_capacitor, #ae69e0
+vibranium_capacitor, #52b9af

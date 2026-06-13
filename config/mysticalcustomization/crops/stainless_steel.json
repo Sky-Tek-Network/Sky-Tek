@@ -1,0 +1,17 @@
+{
+  "name": "Stainless Steel",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "tag": "modern_industrialization:stainless_steel_ingot"
+  },
+  "color": "9b9ed1",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  },
+  "crux": "modern_industrialization:stainless_steel_block",
+  "recipes": {
+    "infusion": false
+  }
+}

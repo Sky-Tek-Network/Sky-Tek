@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_5__kitchen_sink_until_end_game"
+	group: "7ADDDA79E5AB2C62"
+	icon: {
+		id: "draconicevolution:mob_soul"
+	}
+	id: "334DE2627046B7F4"
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "7A167695BA4357A1"
+		tasks: [{
+			id: "5C605741A75A94D5"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

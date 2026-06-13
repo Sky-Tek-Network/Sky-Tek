@@ -1,0 +1,12 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"avaritia:diamond_lattice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:brass_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:brass_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:lava_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:electron_tube"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alltheores:brass_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcobblestone:mechanical_generator","components":{"minecraft:block_entity_data":{"type":"none","id":"createcobblestone:mechanical_generator"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

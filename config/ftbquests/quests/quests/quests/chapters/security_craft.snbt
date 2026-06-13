@@ -1,0 +1,214 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "security_craft"
+	group: ""
+	id: "2932B4C52E412AB2"
+	images: [{
+		height: 10.0d
+		image: "mcwfences:block/wire_fence"
+		rotation: 0.0d
+		width: 10.0d
+		x: 4.5d
+		y: 0.5d
+	}]
+	order_index: 28
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5D941BF692C91BC7"
+			rewards: [{
+				id: "587425913F0CAC1D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0DF967B42F132967"
+				item: { count: 1, id: "securitycraft:sc_manual" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "275EFFC9984F648D"
+			rewards: [{
+				id: "2738DBF4E459F084"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5B2A7D2A1D9AC33E"
+				item: { count: 1, id: "securitycraft:keypad_chest" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "4374BD178D6E3F33"
+			rewards: [{
+				id: "61AC01DC5ABAB031"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "72CE72A8CE1F01E7"
+				item: { count: 1, id: "securitycraft:keypad_barrel" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			id: "20BF6133BC8CE3C4"
+			rewards: [{
+				id: "53C386FE5A6C5051"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2CC774B849AA5D1A"
+				item: { count: 1, id: "securitycraft:keypad_furnace" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "7372592D742A3D08"
+			rewards: [{
+				id: "5C9132407A43696D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "36529A196FAED1CD"
+				item: { count: 1, id: "securitycraft:keypad_smoker" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "543A08C4007A26F2"
+			rewards: [{
+				id: "6467BC55C0438E9C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3D022AFA37969C3E"
+				item: { count: 1, id: "securitycraft:keypad_blast_furnace" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			id: "32BF7EB32675FD25"
+			rewards: [{
+				id: "225C4C3BEDB45BCF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5E056A1F4EFC012E"
+				item: { count: 1, id: "securitycraft:display_case" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "6F77F8D899A3595A"
+			rewards: [{
+				id: "3C9C4FE323F6C0E0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "125E2C3C2CD27ECE"
+				item: { count: 1, id: "securitycraft:glow_display_case" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			id: "553EBD923EE10956"
+			rewards: [{
+				id: "291830CA300B90B2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "671A2FD2B8585B25"
+				item: { count: 1, id: "securitycraft:universal_block_modifier" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "15F7AFB85D0EE33D"
+			rewards: [{
+				id: "48470033470D564D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "04BC4935BF91C46B"
+				item: { count: 1, id: "securitycraft:alarm" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			id: "78A65C555CCB76D9"
+			rewards: [{
+				id: "793EF38872676CDA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E71F8BA2278BF17"
+				item: { count: 1, id: "securitycraft:username_logger" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "0B4205403F3506EB"
+			rewards: [{
+				id: "790C08E7A1D76C4F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2B435ACAD00D9B24"
+				item: { count: 1, id: "securitycraft:security_camera" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "39808AA923B60883"
+			rewards: [{
+				id: "4229364E73D5004C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "31EF93913F13B3BA"
+				item: { count: 1, id: "securitycraft:door_indestructible_iron_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+	]
+}

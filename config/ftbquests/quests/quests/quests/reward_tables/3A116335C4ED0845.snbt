@@ -1,0 +1,1490 @@
+{
+	id: "3A116335C4ED0845"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "building"
+	}
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{
+			count: 16
+			id: "1850E4D02634CB36"
+			item: {
+				count: 1
+				id: "productivetrees:walnut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0D680988D1789EDA"
+			item: {
+				count: 1
+				id: "productivetrees:water_wonder_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2258AB85DB76FB82"
+			item: {
+				count: 1
+				id: "productivetrees:wenge_planks"
+			}
+		}
+		{
+			count: 16
+			id: "33B1856303B0F898"
+			item: {
+				count: 1
+				id: "productivetrees:western_hemlock_planks"
+			}
+		}
+		{
+			count: 16
+			id: "499770A3B1D5ADF5"
+			item: {
+				count: 1
+				id: "productivetrees:whitebeam_planks"
+			}
+		}
+		{
+			count: 16
+			id: "23C024F88DB49E2F"
+			item: {
+				count: 1
+				id: "productivetrees:white_poplar_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2EEB81C843FE1B6F"
+			item: {
+				count: 1
+				id: "productivetrees:white_willow_planks"
+			}
+		}
+		{
+			count: 16
+			id: "177C0C182B8775DA"
+			item: {
+				count: 1
+				id: "productivetrees:wild_cherry_planks"
+			}
+		}
+		{
+			count: 16
+			id: "54727F6495D0AA00"
+			item: {
+				count: 1
+				id: "productivetrees:yellow_meranti_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4A9181E6C22D42A1"
+			item: {
+				count: 1
+				id: "productivetrees:sweet_chestnut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5EA37D94F0F71629"
+			item: {
+				count: 1
+				id: "productivetrees:sweet_crabapple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7C1CFE096C25EFC8"
+			item: {
+				count: 1
+				id: "productivetrees:sycamore_fig_planks"
+			}
+		}
+		{
+			count: 16
+			id: "60902D2A2B623CB4"
+			item: {
+				count: 1
+				id: "productivetrees:tangerine_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3225B439E8FE9CB9"
+			item: {
+				count: 1
+				id: "productivetrees:teak_planks"
+			}
+		}
+		{
+			count: 16
+			id: "16686D50149A50AB"
+			item: {
+				count: 1
+				id: "productivetrees:thunder_bolt_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0F739E7DD8728BFD"
+			item: {
+				count: 1
+				id: "productivetrees:time_traveller_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6CC0EDAE53988B3E"
+			item: {
+				count: 1
+				id: "productivetrees:tuscarora_crepe_myrtle_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7E4B9076C1E3D032"
+			item: {
+				count: 1
+				id: "productivetrees:blue_yonder_planks"
+			}
+		}
+		{
+			count: 16
+			id: "54DB0B9DB87169D4"
+			item: {
+				count: 1
+				id: "productivetrees:soursop_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2D12C75FE951EBEA"
+			item: {
+				count: 1
+				id: "productivetrees:sour_cherry_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1B0F473798E428A4"
+			item: {
+				count: 1
+				id: "productivetrees:sparkle_cherry_planks"
+			}
+		}
+		{
+			count: 16
+			id: "75F98E3F232CA0A9"
+			item: {
+				count: 1
+				id: "productivetrees:star_anise_planks"
+			}
+		}
+		{
+			count: 16
+			id: "30F1480988004368"
+			item: {
+				count: 1
+				id: "productivetrees:star_fruit_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3F08664321FCACAF"
+			item: {
+				count: 1
+				id: "productivetrees:sugar_apple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6D6455D45AB98465"
+			item: {
+				count: 1
+				id: "productivetrees:sugar_maple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4956002CBA8887A9"
+			item: {
+				count: 1
+				id: "productivetrees:swamp_gum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "57DF1557ADF6CE47"
+			item: {
+				count: 1
+				id: "productivetrees:sweetgum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "169EA5EEFE79EE7E"
+			item: {
+				count: 1
+				id: "productivetrees:sandalwood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "158148C6295F85E4"
+			item: {
+				count: 1
+				id: "productivetrees:sand_pear_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0084CD587BAD6AD6"
+			item: {
+				count: 1
+				id: "productivetrees:satsuma_planks"
+			}
+		}
+		{
+			count: 16
+			id: "52AB87D05DF3E8E9"
+			item: {
+				count: 1
+				id: "productivetrees:sequoia_planks"
+			}
+		}
+		{
+			count: 16
+			id: "15F10F183BF80E40"
+			item: {
+				count: 1
+				id: "productivetrees:silver_fir_planks"
+			}
+		}
+		{
+			count: 16
+			id: "79048156101C7E27"
+			item: {
+				count: 1
+				id: "productivetrees:silver_lime_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2B61063AD21C5174"
+			item: {
+				count: 1
+				id: "productivetrees:slimy_delight_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4B64AE6A1E3F0136"
+			item: {
+				count: 1
+				id: "productivetrees:socotra_dragon_planks"
+			}
+		}
+		{
+			count: 16
+			id: "262B776AD03AB90E"
+			item: {
+				count: 1
+				id: "productivetrees:soul_tree_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7270E070A04A8273"
+			item: {
+				count: 1
+				id: "productivetrees:red_crepe_myrtle_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5A1D2CAF683355E6"
+			item: {
+				count: 1
+				id: "productivetrees:red_delicious_apple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4B3BAF48193EE906"
+			item: {
+				count: 1
+				id: "productivetrees:red_maple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1C28C57ADD22F6E1"
+			item: {
+				count: 1
+				id: "productivetrees:rippling_willow_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0BD5B562B5AB6A87"
+			item: {
+				count: 1
+				id: "productivetrees:rosewood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5B1B11EB9291D976"
+			item: {
+				count: 1
+				id: "productivetrees:rose_gum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2828B1F88D8681EF"
+			item: {
+				count: 1
+				id: "productivetrees:rowan_planks"
+			}
+		}
+		{
+			count: 16
+			id: "13B2EF698C141081"
+			item: {
+				count: 1
+				id: "productivetrees:rubber_tree_planks"
+			}
+		}
+		{
+			count: 16
+			id: "41C625F146B2FEFB"
+			item: {
+				count: 1
+				id: "productivetrees:salak_planks"
+			}
+		}
+		{
+			count: 16
+			id: "497BE498082DA6C4"
+			item: {
+				count: 1
+				id: "productivetrees:pomegranate_planks"
+			}
+		}
+		{
+			count: 16
+			id: "76E4AD209A90C06A"
+			item: {
+				count: 1
+				id: "productivetrees:pomelo_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1CAA94C8E8C89987"
+			item: {
+				count: 1
+				id: "productivetrees:prairie_crabapple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5F39D25D86CD1F4C"
+			item: {
+				count: 1
+				id: "productivetrees:purpleheart_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6152616202727EB5"
+			item: {
+				count: 1
+				id: "productivetrees:purple_crepe_myrtle_planks"
+			}
+		}
+		{
+			count: 16
+			id: "71509F1C0A5E3672"
+			item: {
+				count: 1
+				id: "productivetrees:purple_blackthorn_planks"
+			}
+		}
+		{
+			count: 16
+			id: "50FDE854A4F9BC2C"
+			item: {
+				count: 1
+				id: "productivetrees:purple_spiral_planks"
+			}
+		}
+		{
+			count: 16
+			id: "232626ACD57CF783"
+			item: {
+				count: 1
+				id: "productivetrees:rainbow_gum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "15C59F82F75AF5DF"
+			item: {
+				count: 1
+				id: "productivetrees:red_banana_planks"
+			}
+		}
+		{
+			count: 16
+			id: "469929AB651FDF93"
+			item: {
+				count: 1
+				id: "productivetrees:pandanus_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5F1AAEE36DAC3B42"
+			item: {
+				count: 1
+				id: "productivetrees:papaya_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5FA8993A0870C4DB"
+			item: {
+				count: 1
+				id: "productivetrees:peach_planks"
+			}
+		}
+		{
+			count: 16
+			id: "682D1E880115545E"
+			item: {
+				count: 1
+				id: "productivetrees:pecan_planks"
+			}
+		}
+		{
+			count: 16
+			id: "789A1A70F73B3F6F"
+			item: {
+				count: 1
+				id: "productivetrees:persimmon_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4F9002AFDC9469D0"
+			item: {
+				count: 1
+				id: "productivetrees:pink_ivory_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1F3CE5C04015B0C9"
+			item: {
+				count: 1
+				id: "productivetrees:pistachio_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1D45E628F0AA8535"
+			item: {
+				count: 1
+				id: "productivetrees:plantain_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0E057C89F0BC2FC3"
+			item: {
+				count: 1
+				id: "productivetrees:plum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "06371D07405894B8"
+			item: {
+				count: 1
+				id: "productivetrees:moonlight_magic_crepe_myrtle_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2E990CAAC4D2ED58"
+			item: {
+				count: 1
+				id: "productivetrees:myrtle_ebony_planks"
+			}
+		}
+		{
+			count: 16
+			id: "389AFFA165450EDB"
+			item: {
+				count: 1
+				id: "productivetrees:nectarine_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5D8363A85F43C145"
+			item: {
+				count: 1
+				id: "productivetrees:night_fuchsia_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2501BA1227AF0E99"
+			item: {
+				count: 1
+				id: "productivetrees:nutmeg_planks"
+			}
+		}
+		{
+			count: 16
+			id: "502C16EAA5F818E9"
+			item: {
+				count: 1
+				id: "productivetrees:old_fustic_planks"
+			}
+		}
+		{
+			count: 16
+			id: "322B4E62E0C54B53"
+			item: {
+				count: 1
+				id: "productivetrees:olive_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1572DF54BDEE0565"
+			item: {
+				count: 1
+				id: "productivetrees:orange_planks"
+			}
+		}
+		{
+			count: 16
+			id: "36AE8E17092998EB"
+			item: {
+				count: 1
+				id: "productivetrees:padauk_planks"
+			}
+		}
+		{
+			count: 16
+			id: "72D2DFCEB2D182E5"
+			item: {
+				count: 1
+				id: "productivetrees:lawson_cypress_planks"
+			}
+		}
+		{
+			count: 16
+			id: "481C1B9F941BCDAC"
+			item: {
+				count: 1
+				id: "productivetrees:lemon_planks"
+			}
+		}
+		{
+			count: 16
+			id: "57CE08B2BD93B18F"
+			item: {
+				count: 1
+				id: "productivetrees:lime_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4BA5DFAA51461196"
+			item: {
+				count: 1
+				id: "productivetrees:loblolly_pine_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7D6E40ABC8A9C22E"
+			item: {
+				count: 1
+				id: "productivetrees:logwood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6B1E6E3AF885087E"
+			item: {
+				count: 1
+				id: "productivetrees:mahogany_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4AF33858AFF6AB48"
+			item: {
+				count: 1
+				id: "productivetrees:mandarin_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0064098FDDE12B55"
+			item: {
+				count: 1
+				id: "productivetrees:mango_planks"
+			}
+		}
+		{
+			count: 16
+			id: "702B9C78EAE37D7B"
+			item: {
+				count: 1
+				id: "productivetrees:monkey_puzzle_planks"
+			}
+		}
+		{
+			count: 16
+			id: "68AB27FBB015BE7C"
+			item: {
+				count: 1
+				id: "productivetrees:white_ipe_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3C110A3D48AC58D5"
+			item: {
+				count: 1
+				id: "productivetrees:pink_ipe_planks"
+			}
+		}
+		{
+			count: 16
+			id: "470B3D91A3C3F56B"
+			item: {
+				count: 1
+				id: "productivetrees:purple_ipe_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7E4C46BD88AABCA9"
+			item: {
+				count: 1
+				id: "productivetrees:iroko_planks"
+			}
+		}
+		{
+			count: 16
+			id: "30A1FDA7C5E1A1CE"
+			item: {
+				count: 1
+				id: "productivetrees:jackfruit_planks"
+			}
+		}
+		{
+			count: 16
+			id: "51AA902E89C2889C"
+			item: {
+				count: 1
+				id: "productivetrees:juniper_planks"
+			}
+		}
+		{
+			count: 16
+			id: "49E44FC2D9C08F33"
+			item: {
+				count: 1
+				id: "productivetrees:key_lime_planks"
+			}
+		}
+		{
+			count: 16
+			id: "136A791B725DA13C"
+			item: {
+				count: 1
+				id: "productivetrees:kapok_planks"
+			}
+		}
+		{
+			count: 16
+			id: "45B8DA13BB6E3049"
+			item: {
+				count: 1
+				id: "productivetrees:kumquat_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6BA28547C923AA36"
+			item: {
+				count: 1
+				id: "productivetrees:granny_smith_apple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "70A4A9DE1402D004"
+			item: {
+				count: 1
+				id: "productivetrees:grapefruit_planks"
+			}
+		}
+		{
+			count: 16
+			id: "00816FD3D7A4B087"
+			item: {
+				count: 1
+				id: "productivetrees:great_sallow_planks"
+			}
+		}
+		{
+			count: 16
+			id: "23001CDD0C3E84FE"
+			item: {
+				count: 1
+				id: "productivetrees:greenheart_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7E625D4FB59E7875"
+			item: {
+				count: 1
+				id: "productivetrees:hawthorn_planks"
+			}
+		}
+		{
+			count: 16
+			id: "42A6300A48BF2529"
+			item: {
+				count: 1
+				id: "productivetrees:hazel_planks"
+			}
+		}
+		{
+			count: 16
+			id: "29ABFF1534FC3E83"
+			item: {
+				count: 1
+				id: "productivetrees:holly_planks"
+			}
+		}
+		{
+			count: 16
+			id: "78622D9A64FC9F79"
+			item: {
+				count: 1
+				id: "productivetrees:hornbeam_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5BA48FF464DA040D"
+			item: {
+				count: 1
+				id: "productivetrees:ipe_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6A78F3F320937A70"
+			item: {
+				count: 1
+				id: "productivetrees:european_larch_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1C804D560FB47B9B"
+			item: {
+				count: 1
+				id: "productivetrees:finger_lime_planks"
+			}
+		}
+		{
+			count: 16
+			id: "248EF8F3D8B38357"
+			item: {
+				count: 1
+				id: "productivetrees:firecracker_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4B7BDEA48FBAE679"
+			item: {
+				count: 1
+				id: "productivetrees:flickering_sun_planks"
+			}
+		}
+		{
+			count: 16
+			id: "42847A55CF52EB8E"
+			item: {
+				count: 1
+				id: "productivetrees:flowering_crabapple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "562B4EEB2AE8B786"
+			item: {
+				count: 1
+				id: "productivetrees:foggy_blast_planks"
+			}
+		}
+		{
+			count: 16
+			id: "623216237FEFF0D7"
+			item: {
+				count: 1
+				id: "productivetrees:ginkgo_planks"
+			}
+		}
+		{
+			count: 16
+			id: "28738348C369F0B4"
+			item: {
+				count: 1
+				id: "productivetrees:golden_delicious_apple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "761D46211732DED6"
+			item: {
+				count: 1
+				id: "productivetrees:grandidiers_baobab_planks"
+			}
+		}
+		{
+			count: 16
+			id: "36F62447358B6551"
+			item: {
+				count: 1
+				id: "productivetrees:copoazu_planks"
+			}
+		}
+		{
+			count: 16
+			id: "782DEE05E5DDE6F3"
+			item: {
+				count: 1
+				id: "productivetrees:copper_beech_planks"
+			}
+		}
+		{
+			count: 16
+			id: "64EAE7E30F95F2AC"
+			item: {
+				count: 1
+				id: "productivetrees:cork_oak_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1E7074546D9136F5"
+			item: {
+				count: 1
+				id: "productivetrees:cultivated_pear_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5D960579D4A04E26"
+			item: {
+				count: 1
+				id: "productivetrees:date_palm_planks"
+			}
+		}
+		{
+			count: 16
+			id: "54FE759902B8D153"
+			item: {
+				count: 1
+				id: "productivetrees:dogwood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3CCD50C3B82707D2"
+			item: {
+				count: 1
+				id: "productivetrees:douglas_fir_planks"
+			}
+		}
+		{
+			count: 16
+			id: "2659B2FDC7E053D1"
+			item: {
+				count: 1
+				id: "productivetrees:elderberry_planks"
+			}
+		}
+		{
+			count: 16
+			id: "21208418E5E095AA"
+			item: {
+				count: 1
+				id: "productivetrees:elm_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0D18FFBAE96114C6"
+			item: {
+				count: 1
+				id: "productivetrees:cempedak_planks"
+			}
+		}
+		{
+			count: 16
+			id: "75D1935A3705978B"
+			item: {
+				count: 1
+				id: "productivetrees:ceylon_ebony_planks"
+			}
+		}
+		{
+			count: 16
+			id: "567E4CD67E97A3AC"
+			item: {
+				count: 1
+				id: "productivetrees:cherry_plum_planks"
+			}
+		}
+		{
+			count: 16
+			id: "405BD049E60732CB"
+			item: {
+				count: 1
+				id: "productivetrees:cinnamon_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3B6C7F0084CF2C9C"
+			item: {
+				count: 1
+				id: "productivetrees:citron_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1A2640762E392546"
+			item: {
+				count: 1
+				id: "productivetrees:clove_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6DB41D570E4D8AB8"
+			item: {
+				count: 1
+				id: "productivetrees:cocobolo_planks"
+			}
+		}
+		{
+			count: 16
+			id: "04DD2DB616430C97"
+			item: {
+				count: 1
+				id: "productivetrees:coconut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "22286DFBE7879904"
+			item: {
+				count: 1
+				id: "productivetrees:coffea_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7D3ECE657608972C"
+			item: {
+				count: 1
+				id: "productivetrees:buddhas_hand_planks"
+			}
+		}
+		{
+			count: 16
+			id: "652813B04610A9D2"
+			item: {
+				count: 1
+				id: "productivetrees:bull_pine_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5587072A790AD319"
+			item: {
+				count: 1
+				id: "productivetrees:butternut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "53B2444BDFFDF937"
+			item: {
+				count: 1
+				id: "productivetrees:cacao_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5E6C3AB9D728F662"
+			item: {
+				count: 1
+				id: "productivetrees:candlenut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7C02D4790E0B6BB6"
+			item: {
+				count: 1
+				id: "productivetrees:cashew_planks"
+			}
+		}
+		{
+			count: 16
+			id: "0E128A89E42EDCBF"
+			item: {
+				count: 1
+				id: "productivetrees:carob_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4DA7BB0D0BA488DB"
+			item: {
+				count: 1
+				id: "productivetrees:cave_dweller_planks"
+			}
+		}
+		{
+			count: 16
+			id: "470BA688CB769C7E"
+			item: {
+				count: 1
+				id: "productivetrees:cedar_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4BBF25801E34CA48"
+			item: {
+				count: 1
+				id: "productivetrees:black_cherry_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4D76F8F4CC7AB005"
+			item: {
+				count: 1
+				id: "productivetrees:black_ember_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1C9D48C8C738DA49"
+			item: {
+				count: 1
+				id: "productivetrees:black_locust_planks"
+			}
+		}
+		{
+			count: 16
+			id: "79F30245CBDD1A67"
+			item: {
+				count: 1
+				id: "productivetrees:blue_mahoe_planks"
+			}
+		}
+		{
+			count: 16
+			id: "58962C486F3CF07E"
+			item: {
+				count: 1
+				id: "productivetrees:boxwood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "6176FED75693553F"
+			item: {
+				count: 1
+				id: "productivetrees:brazilwood_planks"
+			}
+		}
+		{
+			count: 16
+			id: "5253ED08AB7279DB"
+			item: {
+				count: 1
+				id: "productivetrees:brazil_nut_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3FD30800D709422B"
+			item: {
+				count: 1
+				id: "productivetrees:breadfruit_planks"
+			}
+		}
+		{
+			count: 16
+			id: "079BBB4C6C7FA659"
+			item: {
+				count: 1
+				id: "productivetrees:brown_amber_planks"
+			}
+		}
+		{
+			count: 16
+			id: "19520809A842D913"
+			item: {
+				count: 1
+				id: "productivetrees:ash_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7A79D2CA48D23373"
+			item: {
+				count: 1
+				id: "productivetrees:aspen_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1D20345F6A0627A5"
+			item: {
+				count: 1
+				id: "productivetrees:avocado_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4F5DC9D37EC21FBA"
+			item: {
+				count: 1
+				id: "productivetrees:balsa_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4B24010E6DD494C4"
+			item: {
+				count: 1
+				id: "productivetrees:balsam_fir_planks"
+			}
+		}
+		{
+			count: 16
+			id: "37FA45198C917CE3"
+			item: {
+				count: 1
+				id: "productivetrees:banana_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7FC99F7B2DA748B9"
+			item: {
+				count: 1
+				id: "productivetrees:beech_planks"
+			}
+		}
+		{
+			count: 16
+			id: "29325FDE49780F6E"
+			item: {
+				count: 1
+				id: "productivetrees:beliy_naliv_apple_planks"
+			}
+		}
+		{
+			count: 16
+			id: "4FD46CCA9B199D84"
+			item: {
+				count: 1
+				id: "productivetrees:blackthorn_planks"
+			}
+		}
+		{
+			count: 16
+			id: "071A3A7E3E6C5DDA"
+			item: {
+				count: 1
+				id: "productivetrees:alder_planks"
+			}
+		}
+		{
+			count: 16
+			id: "3462228B019B0FC5"
+			item: {
+				count: 1
+				id: "productivetrees:allspice_planks"
+			}
+		}
+		{
+			count: 16
+			id: "47C2768476398AF4"
+			item: {
+				count: 1
+				id: "productivetrees:almond_planks"
+			}
+		}
+		{
+			count: 16
+			id: "7B1337A6A7CB9837"
+			item: {
+				count: 1
+				id: "productivetrees:apricot_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1AD5808C1DCE23E2"
+			item: {
+				count: 1
+				id: "productivetrees:aquilaria_planks"
+			}
+		}
+		{
+			count: 16
+			id: "74F4A367C6C49769"
+			item: {
+				count: 1
+				id: "productivetrees:asai_palm_planks"
+			}
+		}
+		{
+			count: 16
+			id: "1D178E45AC99168B"
+			item: {
+				count: 1
+				id: "cookingforblockheads:white_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "4575DA2C1367B3C4"
+			item: {
+				count: 1
+				id: "cookingforblockheads:brown_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "05BCDB10FAAC4BAD"
+			item: {
+				count: 1
+				id: "cookingforblockheads:orange_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "4AE608399CB70784"
+			item: {
+				count: 1
+				id: "cookingforblockheads:magenta_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "57D039E3759303AB"
+			item: {
+				count: 1
+				id: "cookingforblockheads:light_blue_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "4D2AF64B706BFEB8"
+			item: {
+				count: 1
+				id: "cookingforblockheads:yellow_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "6DE917DAD6C78555"
+			item: {
+				count: 1
+				id: "cookingforblockheads:lime_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "635FC3F548F96C3F"
+			item: {
+				count: 1
+				id: "cookingforblockheads:pink_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "4FF4F5D6D1B63E59"
+			item: {
+				count: 1
+				id: "cookingforblockheads:gray_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "230B472EE8DC6E48"
+			item: {
+				count: 1
+				id: "cookingforblockheads:light_gray_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "2E408B65EF24F0F5"
+			item: {
+				count: 1
+				id: "cookingforblockheads:cyan_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "14C1326096966DE1"
+			item: {
+				count: 1
+				id: "cookingforblockheads:purple_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "58E52524D25C70D1"
+			item: {
+				count: 1
+				id: "cookingforblockheads:blue_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "654171C7A9007E9E"
+			item: {
+				count: 1
+				id: "cookingforblockheads:brown_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "146DFD841DFF8676"
+			item: {
+				count: 1
+				id: "cookingforblockheads:green_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "1EAF1B126AC58BFE"
+			item: {
+				count: 1
+				id: "cookingforblockheads:red_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "7273DDD068A81601"
+			item: {
+				count: 1
+				id: "cookingforblockheads:black_kitchen_floor"
+			}
+		}
+		{
+			count: 16
+			id: "0AF13ABB8EEA719B"
+			item: {
+				count: 1
+				id: "biomeswevegone:smooth_white_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "029CB493E05C82ED"
+			item: {
+				count: 1
+				id: "biomeswevegone:smooth_blue_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "47DA64D3F5A015E7"
+			item: {
+				count: 1
+				id: "biomeswevegone:smooth_purple_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "0F21C5620E425C0B"
+			item: {
+				count: 1
+				id: "biomeswevegone:smooth_pink_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "670C9E728D12FF34"
+			item: {
+				count: 1
+				id: "biomeswevegone:smooth_windswept_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "2D7529E64940C189"
+			item: {
+				count: 1
+				id: "minecraft:smooth_sandstone_stairs"
+			}
+		}
+		{
+			count: 16
+			id: "0FFA02984DFD2939"
+			item: {
+				count: 1
+				id: "immersiveengineering:stairs_concrete"
+			}
+		}
+		{ id: "260FA01899DA26E9", item: { count: 1, id: "enderio:dark_steel_door" } }
+		{ id: "45FD4935333C3EBD", item: { count: 1, id: "biomeswevegone:palm_door" } }
+		{ id: "70E4CCB51570B607", item: { count: 1, id: "productivetrees:yellow_meranti_door" } }
+		{ id: "28C7E00D5214FDC2", item: { count: 1, id: "productivetrees:star_anise_door" } }
+		{ id: "59A71A1B0DC19957", item: { count: 1, id: "productivetrees:lawson_cypress_door" } }
+		{ id: "2A5A03830B05B38B", item: { count: 1, id: "productivetrees:ipe_door" } }
+		{ id: "3B748578606F8101", item: { count: 1, id: "productivetrees:copoazu_door" } }
+		{ id: "59CD4C180F1F9530", item: { count: 1, id: "productivetrees:prairie_crabapple_door" } }
+		{ id: "4792C359948B0E5B", item: { count: 1, id: "productivetrees:aquilaria_door" } }
+		{ id: "37802F69243DCEF0", item: { count: 1, id: "minecraft:ghast_tear" } }
+	]
+}

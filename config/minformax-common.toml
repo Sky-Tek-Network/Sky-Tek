@@ -1,0 +1,11 @@
+[general]
+	#Should replicators render block inside
+	should_render = true
+	#Energy multiplier for mob production
+	# Default: 8
+	# Range: > 1
+	mob_coefficient = 8
+	#Energy multiplier for farm production
+	# Default: 1024
+	# Range: > 1
+	farm_coefficient = 1024

@@ -1,0 +1,40 @@
+{
+	id: "322B99CA7ADD6AC0"
+	loot_size: 1
+	order_index: 36
+	rewards: [
+		{ id: "6EC85651FD4BA2B7", item: { count: 1, id: "evilcraft:condensed_blood" } }
+		{
+			id: "13A9D1D1EA74D652"
+			item: {
+				count: 1
+				id: "evilcraft:hardened_blood_shard"
+			}
+			weight: 0.01f
+		}
+		{
+			id: "60ABBFEA133A4084"
+			type: "xp"
+			xp: 100
+		}
+		{ id: "5BE230948319FEDE", item: { count: 1, id: "evilcraft:dark_gem" } }
+		{ id: "1E9A441FA8F1CAA3", item: { count: 1, id: "evilcraft:dark_spike" } }
+		{
+			id: "5431420031C60DFD"
+			item: {
+				count: 1
+				id: "evilcraft:dark_tank"
+			}
+			weight: 0.01f
+		}
+		{ id: "2005870ED1E9B683", item: { components: { "evilcraft:display_stand_type": { Name: "productivetrees:soul_tree_planks" } }, count: 1, id: "evilcraft:display_stand" } }
+		{
+			count: 8
+			id: "76E6AD686BE68E89"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+		}
+	]
+}

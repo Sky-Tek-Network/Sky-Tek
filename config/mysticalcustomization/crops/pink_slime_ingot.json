@@ -1,0 +1,17 @@
+{
+  "name": "Pink Slime Ingot",
+  "type": "mysticalagriculture:resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "tag": "industrialforegoing:pink_slime_ingot"
+  },
+  "color": "ff00d4",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_ingot",
+    "essence": "mysticalagriculture:item/essence_ingot"
+  },
+  "crux": "industrialforegoing:pink_slime_block",
+  "recipes": {
+    "infusion": false
+  }
+}

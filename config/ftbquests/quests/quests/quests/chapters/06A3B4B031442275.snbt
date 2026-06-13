@@ -1,0 +1,122 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "06A3B4B031442275"
+	group: ""
+	id: "06A3B4B031442275"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5B56BFEE1017B5FD"
+			rewards: [{
+				id: "75FD7981B0B05BEE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4D306ECAD319072A"
+				item: { count: 1, id: "torchmaster:megatorch" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "portablecraftingtable:portable_crafting_table"
+			}
+			id: "4F62E20010C9F2DA"
+			rewards: [{
+				id: "6A022389D5E97559"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0B9D67D21D92B829"
+				item: { count: 1, id: "portablecraftingtable:portable_crafting_table" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1251B98B979B9404"]
+			id: "71ED6F9B6C9052AE"
+			rewards: [{
+				id: "47D6AF97BF20C351"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4E280044448A4DD6"
+				item: { count: 1, id: "draconicevolution:advanced_dislocator" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.5d
+		}
+		{
+			id: "40BA0C6A2B8B6A5E"
+			rewards: [{
+				id: "62EAF553110D5B9E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0B1E04F6F2DF3C7A"
+				item: { count: 1, id: "waystones:waystone" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			id: "1251B98B979B9404"
+			rewards: [{
+				id: "2D4D071F8AAB6F56"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6FF002EA0CF55374"
+				item: { count: 1, id: "draconicevolution:dislocator" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			id: "783F9E5CE86C3A1C"
+			rewards: [{
+				id: "57B046F8A72F69E1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "115B7B2475AAFBBA"
+				item: { count: 1, id: "draconicevolution:magnet" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["783F9E5CE86C3A1C"]
+			id: "401246B36D488CD6"
+			rewards: [{
+				id: "436FBCEAF2D998F7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E3D26835740214B"
+				item: { count: 1, id: "draconicevolution:advanced_magnet" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -0.5d
+		}
+	]
+}

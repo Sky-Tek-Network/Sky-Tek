@@ -1,0 +1,11 @@
+{
+  "name": "Charged Redstone Crystal",
+  "colors": [
+    "991111",
+    "991111"
+  ],
+  "ingredient": {
+    "item": "appflux:charged_redstone"
+  },
+  "inUltimateSingularity": true
+}

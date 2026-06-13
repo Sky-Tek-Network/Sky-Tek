@@ -1,0 +1,196 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "solargeneration"
+	group: ""
+	id: "2A60E91B77D484A7"
+	images: [
+		{
+			height: 1.0d
+			image: "ars_nouveau:textures/gui/sound_bar.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "ars_nouveau:textures/gui/sound_bar.png"
+			rotation: 0.0d
+			width: 10.0d
+			x: 3.0d
+			y: -1.0d
+		}
+	]
+	order_index: 35
+	quest_links: [ ]
+	quests: [
+		{
+			id: "188C816A4BB1DB25"
+			rewards: [
+				{
+					id: "2C8254E8BE082D7A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7580DB01F67054EA"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "370875E2156AF0EE"
+				item: { count: 1, id: "solargeneration:solar_panel_leadstone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["188C816A4BB1DB25"]
+			id: "7C551D4F069522A0"
+			rewards: [
+				{
+					id: "0EA50C38C506488D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "42FC0ED338C9169E"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3F630E8F4D40E85E"
+				item: { count: 1, id: "solargeneration:solar_panel_hardened" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C551D4F069522A0"]
+			id: "03FC2EBED69D3856"
+			rewards: [
+				{
+					id: "0DF74CC13D3006E1"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7FAFA4B518F593DE"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "00875E90668CBCF7"
+				item: { count: 1, id: "solargeneration:solar_panel_redstone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03FC2EBED69D3856"]
+			id: "7D39A6E2D9D4D71B"
+			rewards: [
+				{
+					id: "42022954394513F5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D260801B4A8C0CC"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "4521E9D8B0538B75"
+				item: { count: 1, id: "solargeneration:solar_panel_signalum" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D39A6E2D9D4D71B"]
+			id: "24C4E1859E7016E7"
+			rewards: [
+				{
+					id: "51CC6528DFB15429"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2D6F5CF3FD996E0F"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "1B08A0DE54FE6DCC"
+				item: { count: 1, id: "solargeneration:solar_panel_resonant" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["24C4E1859E7016E7"]
+			id: "080B0CF01954F4C1"
+			rewards: [
+				{
+					id: "192027E96837ADB6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1244529C32BA6E6A"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "44E50A3848B7FDDC"
+				item: { count: 1, id: "solargeneration:solar_panel_advanced" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["080B0CF01954F4C1"]
+			id: "6BBFE33778BC2E33"
+			rewards: [
+				{
+					id: "090DF9A150EEC86B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "265DC7AACF220D2F"
+					table_id: 4802551285982757778L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "58D1D2567D277524"
+				item: { count: 1, id: "solargeneration:solar_panel_ultimate" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

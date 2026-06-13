@@ -1,0 +1,147 @@
+#Want to take a look at the internals of EMC Calculation? Enable this to write all the conversions and setValue-Commands to config/ProjectE/mapping_dump.json
+dumpToFile = false
+#When the next EMC mapping occurs write the results to config/ProjectE/pregenerated_emc.json and only ever run the mapping again when that file does not exist, this setting is set to false, or an error occurred parsing that file.
+usePregenerated = false
+#Logs known EMC Exploits. This can not and will not find all possible exploits. This will only find exploits that result in fixed/custom emc values that the algorithm did not overwrite. Exploits that derive from conversions that are unknown to ProjectE will not be found.
+logFoundExploits = true
+
+#Used to configure settings for the various EMC Mappers.
+[mappers]
+
+	#Allows KubeJS ProjectE to function
+	[mappers.KubeJSProjectE]
+		enabled = false
+
+	#Allows setting EMC values through CraftTweaker.
+	[mappers.CrT-Custom-EMC-Mapper]
+		enabled = false
+
+	#Allows adding custom conversions through CraftTweaker.
+	[mappers.CrT-Conversion-EMC-Mapper]
+		enabled = false
+
+	#Loads json files within datapacks to add values and conversions.
+	[mappers.Custom-Conversion-Mapper]
+		enabled = false
+
+	#Add Conversions for Brewing Recipes.
+	[mappers.Brewing-Mapper]
+		enabled = false
+
+	#Add Conversions for all oxidizable blocks.
+	[mappers.Oxidization-Mapper]
+		enabled = false
+
+	#Uses the `custom_emc.json` File to add EMC values. (MANTIDO ATIVO PARA SEUS COMANDOS FUNCIONAREM)
+	[mappers.Custom-EMC-Mapper]
+		enabled = true
+
+	#Add Conversions for all waxable blocks
+	[mappers.Waxable-Mapper]
+		enabled = false
+
+	#Add Conversions for Crafting Recipes
+	[mappers.Crafting-Mapper]
+		enabled = false
+
+		[mappers.Crafting-Mapper.Suspicious-Stew-Mapper]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mark-Special-Recipes-Handled]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Shulker-Recoloring-Mapper]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Tipped-Arrow-Mapper]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Vanilla-Recipe-Types]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Smithing]
+			enabled = false
+
+		[mappers.Crafting-Mapper.AE2-Recipe-Mapper]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Avaritia-Extreme-Smithing]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Avaritia-Extreme]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Avaritia-Compressor]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Sawing]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Rotary]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-PRC]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Item-To-Item]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-I2C]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-IC2I]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Evaporating]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Washing]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Electrolysis]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Combiner]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-C2C]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Dissolution]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-Crystallizer]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Mekanism-CC2C]
+			enabled = false
+
+		[mappers.Crafting-Mapper.Fallback]
+			enabled = false
+
+	#Set EMC=0 for everything in the c:raw_materials tag.
+	[mappers.Raw-Ore-Blacklist-Mapper]
+		enabled = false
+
+	#Set EMC=0 for everything in the c:ores tag.
+	[mappers.Ore-Blacklist-Mapper]
+		enabled = false
+
+	#(AppliedE) Maps Applied Energistics 2 cable facades.
+	[mappers.Facade-Mapper]
+		enabled = false
+
+	#(AppliedE) Maps Applied Energistics 2 P2P tunnels.
+	[mappers.P2P-Tunnel-Mapper]
+		enabled = false
+
+	#Registers EMC values for Avaritia mod items
+	[mappers.avaritia_emc_mapper]
+		enabled = false
+
+	#Adds back and forth conversions of objects and their Tag variant.
+	[mappers.Tag-Mapper]
+		enabled = false
+
+[processors]
+	enabled = false

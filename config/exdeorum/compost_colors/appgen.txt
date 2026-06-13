@@ -1,0 +1,25 @@
+// Compost colors for appgen. You may add your own colors, change existing ones, or remove colors that aren't needed.
+copper_dust, #f78058
+ember_bud_large, #ffc952
+ember_bud_medium, #ffc051
+ember_bud_small, #ffc24b
+ember_cluster, #ffca50
+ember_crystal, #ff9034
+ember_crystal_charged, #ffa744
+ember_dust, #ffc041
+generating_component_16k, #beb1b8
+generating_component_16m, #c39a90
+generating_component_1k, #b8b2c2
+generating_component_1m, #bba5ac
+generating_component_256k, #bfb2b8
+generating_component_256m, #c59e96
+generating_component_4k, #c0b6c0
+generating_component_4m, #c6a4a1
+generating_component_64k, #beaeb1
+generating_component_64m, #c59689
+gold_dust, #ffea4e
+netherite_dust, #514b4e
+origination_processor, #72463c
+origination_processor_press, #b9bbd4
+printed_origination_processor, #ffa233
+stack_smelting_card, #aec0c8

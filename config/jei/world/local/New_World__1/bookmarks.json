@@ -1,0 +1,17 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"mekanism:creative_energy_cube","components":{"mekanism:side_config":{"config":{"energy":{"side":{"front":"output","left":"output","right":"output","back":"output","top":"output","bottom":"output"},"eject":true},"items":{"side":{"front":"output","left":"input","right":"input","back":"input","top":"input","bottom":"input"}}}},"mekanism:energy":{"energy_containers":[9223372036854775807]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"functionalstorage:creative_vending_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism_extras:upgrade_creative"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"draconicevolution:creative_capacitor","components":{"draconicevolution:module_entities":[],"draconicevolution:config_properties":[["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_held_item","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_armor","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_hot_bar","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_main","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_curios","show_on_hud":true}]],"draconicevolution:provider_identity":[458935432,-1618457243,-1741497128,-1461764847]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism_extras:infinite_bin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism_extras:infinite_universal_cable"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:creative_energy_cell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:creative_storage_cell"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:creative_energy_cube"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"draconicevolution:creative_capacitor","components":{"draconicevolution:module_entities":[],"draconicevolution:config_properties":[["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_held_item","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_armor","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_hot_bar","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_main","show_on_hud":true}],["BOOLEAN",{"value":false,"default_value":false,"formatter":"true_false","name":"charge_curios","show_on_hud":true}]],"draconicevolution:provider_identity":[642181996,-1940632294,-1168161397,1321322818]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:dust_saltpeter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderio:conductive_alloy_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"geore:redstone_spyglass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mysticalagriculture:fluix_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

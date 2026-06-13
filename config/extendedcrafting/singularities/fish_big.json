@@ -1,0 +1,11 @@
+{
+  "name": "Fish Big",
+  "colors": [
+    "#C41ABF",
+    "C41ABF"
+  ],
+  "ingredient": {
+    "item": "extendedae:fishbig"
+  },
+  "inUltimateSingularity": true
+}

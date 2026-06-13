@@ -1,0 +1,514 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chap_4"
+	group: "7ADDDA79E5AB2C62"
+	icon: {
+		id: "mekanism:steel_casing"
+	}
+	id: "08F342D0E7E44818"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D5507CDEE6DA355"
+			tasks: [{
+				id: "5EE9EEBCB61AE815"
+				item: { count: 1, id: "industrialforegoing:machine_frame_pity" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"4A05DB145DE6DB5B"
+				"7F5562B6180015AB"
+			]
+			id: "344DF50E60073272"
+			tasks: [{
+				id: "78B3A7B505FCC7A1"
+				item: { count: 1, id: "industrialforegoing:machine_frame_simple" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D5507CDEE6DA355"]
+			id: "4A05DB145DE6DB5B"
+			tasks: [{
+				id: "64FBC4C6B2C03DFB"
+				item: { count: 1, id: "industrialforegoing:dissolution_chamber" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D5507CDEE6DA355"]
+			id: "7F5562B6180015AB"
+			rewards: [
+				{
+					id: "1F99D3145DE237F3"
+					item: {
+						components: {
+							"titanium:augments": {
+								Speed: 2.0f
+							}
+						}
+						count: 1
+						id: "industrialforegoing:speed_addon_tier_1"
+					}
+					type: "item"
+				}
+				{
+					id: "3BC807A2329BC8DB"
+					item: {
+						components: {
+							"titanium:augments": {
+								Efficiency: 0.9f
+							}
+						}
+						count: 1
+						id: "industrialforegoing:efficiency_addon_tier_1"
+					}
+					type: "item"
+				}
+				{
+					id: "1CF3C7E5B2771291"
+					item: {
+						components: {
+							"titanium:augments": {
+								Processing: 2.0f
+							}
+						}
+						count: 1
+						id: "industrialforegoing:processing_addon_tier_1"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "4D2199BBFA3562B3"
+					item: { count: 1, id: "industrialforegoing:fluid_extractor" }
+					type: "item"
+				}
+				{
+					id: "1A4C97742F6453AB"
+					item: { count: 1, id: "industrialforegoing:latex_processing_unit" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D5507CDEE6DA355"]
+			id: "147509CDC4454BC8"
+			tasks: [{
+				id: "7729664E9EDB4757"
+				item: { count: 1, id: "industrialforegoing:mob_slaughter_factory" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"147509CDC4454BC8"
+				"344DF50E60073272"
+			]
+			id: "521DC05765E56877"
+			tasks: [{
+				id: "730338574EC3A93F"
+				item: { count: 1, id: "industrialforegoing:machine_frame_advanced" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["521DC05765E56877"]
+			id: "218A0056AD094035"
+			tasks: [{
+				id: "74CE0DDCE4D5F5FA"
+				item: { count: 1, id: "mekanism:steel_casing" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["218A0056AD094035"]
+			id: "708BE7C45B4F9B88"
+			tasks: [{
+				id: "622B76E3E9198E97"
+				item: { count: 1, id: "mekanism:metallurgic_infuser" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["708BE7C45B4F9B88"]
+			id: "32A5C6B6E2C65129"
+			tasks: [{
+				id: "55EE781734697E52"
+				item: { count: 1, id: "mekanism:alloy_infused" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["708BE7C45B4F9B88"]
+			id: "2E88E61D8F6C0228"
+			tasks: [{
+				id: "58549B2985256B38"
+				item: { count: 1, id: "mekanism:alloy_reinforced" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["708BE7C45B4F9B88"]
+			id: "09D073C5D79D7643"
+			tasks: [{
+				id: "74A11F95155E3E2A"
+				item: { count: 1, id: "mekanism:alloy_atomic" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["708BE7C45B4F9B88"]
+			id: "08563A3BC7BDC9E2"
+			tasks: [{
+				id: "7C2F04EF63C64050"
+				item: { count: 1, id: "mekanism:basic_control_circuit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"08563A3BC7BDC9E2"
+				"32A5C6B6E2C65129"
+			]
+			id: "5F3E399B66E410A4"
+			tasks: [{
+				id: "280CE5CF23CFB583"
+				item: { count: 1, id: "mekanism:advanced_control_circuit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"2E88E61D8F6C0228"
+				"5F3E399B66E410A4"
+			]
+			id: "1FC70AE5D29A1885"
+			tasks: [{
+				id: "2FE991848D203328"
+				item: { count: 1, id: "mekanism:elite_control_circuit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"09D073C5D79D7643"
+				"1FC70AE5D29A1885"
+			]
+			id: "4F2155C48569A58B"
+			tasks: [{
+				id: "00BF2E0CD317A292"
+				item: { count: 1, id: "mekanism:ultimate_control_circuit" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"218A0056AD094035"
+				"08563A3BC7BDC9E2"
+			]
+			id: "21957C4FAB96AD02"
+			tasks: [{
+				id: "1AA9ED397FE52EAA"
+				item: { count: 1, id: "mekanism:enrichment_chamber" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"218A0056AD094035"
+				"08563A3BC7BDC9E2"
+			]
+			id: "7490613CE63B713C"
+			tasks: [{
+				id: "25D48C70102B3D85"
+				item: { count: 1, id: "mekanism:crusher" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			id: "765AC6ED921AA922"
+			tasks: [{
+				id: "1EF8FE50E3C5771B"
+				item: { count: 1, id: "mekanism:pressurized_reaction_chamber" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"7490613CE63B713C"
+				"765AC6ED921AA922"
+				"24DFA557787A0B4D"
+			]
+			id: "308130C6AE3A30AF"
+			tasks: [{
+				id: "62CCCA6D994AB171"
+				item: { count: 1, id: "mekanism:substrate" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			id: "24DFA557787A0B4D"
+			tasks: [{
+				id: "36AFE3EE031F70E4"
+				item: { count: 1, id: "mekanism:electrolytic_separator" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			id: "4C6A057FAAC62E78"
+			tasks: [{
+				id: "23AE56ADFAFDA19C"
+				item: { count: 1, id: "mekanism:rotary_condensentrator" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"765AC6ED921AA922"
+				"24DFA557787A0B4D"
+				"4C6A057FAAC62E78"
+			]
+			id: "14E71E0C57B63D52"
+			tasks: [{
+				id: "2983A672EF6147BC"
+				item: { count: 1, id: "mekanism:hdpe_pellet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["14E71E0C57B63D52"]
+			id: "52359A2B9B50D7FD"
+			tasks: [{
+				id: "4E84FA3D7C2A589E"
+				item: { count: 1, id: "powah:dielectric_paste" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["52359A2B9B50D7FD"]
+			id: "4C4F4048887E06ED"
+			tasks: [{
+				id: "23EB23D36113A78A"
+				item: { count: 1, id: "powah:dielectric_rod" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["52359A2B9B50D7FD"]
+			id: "631333AECCC6C3FB"
+			tasks: [{
+				id: "607982743F068715"
+				item: { count: 1, id: "powah:dielectric_rod_horizontal" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"631333AECCC6C3FB"
+				"4C4F4048887E06ED"
+			]
+			id: "240A6D1ADC73BAB5"
+			tasks: [{
+				id: "3AF842683E6D0135"
+				item: { count: 1, id: "powah:dielectric_casing" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.5d
+		}
+		{
+			id: "050841956CC40902"
+			tasks: [{
+				id: "518BF1A96CD31DDF"
+				item: { count: 1, id: "powah:energizing_rod_starter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"240A6D1ADC73BAB5"
+				"4F2155C48569A58B"
+				"050841956CC40902"
+			]
+			id: "381A71753A731C0C"
+			tasks: [{
+				id: "190C420C0F75495B"
+				item: { count: 1, id: "powah:energizing_orb" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["050841956CC40902"]
+			id: "548200E2F904AE8A"
+			tasks: [{
+				id: "796A208CB00A021B"
+				item: { count: 1, id: "powah:energizing_rod_basic" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["548200E2F904AE8A"]
+			id: "0D374EF7D89FAE93"
+			tasks: [{
+				id: "485B00B13A0BB832"
+				item: { count: 1, id: "powah:energizing_rod_hardened" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0D374EF7D89FAE93"]
+			id: "335CEB139E1D25CF"
+			tasks: [{
+				id: "62E2FCDEB9F64624"
+				item: { count: 1, id: "powah:energizing_rod_blazing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["335CEB139E1D25CF"]
+			id: "4D67F7BFB5C46895"
+			tasks: [{
+				id: "6FC3E2A8E8C1D05C"
+				item: { count: 1, id: "powah:energizing_rod_niotic" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"1E38FAB27E9F69D3"
+				"4D67F7BFB5C46895"
+			]
+			id: "5A09EC37D97800A3"
+			tasks: [{
+				id: "5B861DF8550ED36D"
+				item: { count: 1, id: "ae2:inscriber" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.5d
+		}
+		{
+			id: "1E38FAB27E9F69D3"
+			tasks: [{
+				id: "2F9C5C3F1301338A"
+				item: { count: 1, id: "powah:capacitor_niotic" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"381A71753A731C0C"
+				"5A09EC37D97800A3"
+			]
+			id: "5908608D2734D639"
+			tasks: [{
+				id: "1909396B59F34D9C"
+				item: { count: 1, id: "ae2:controller" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["381A71753A731C0C"]
+			id: "3E6DDA5FF11715D7"
+			rewards: [{
+				count: 16
+				id: "54B37A9CA98E476A"
+				item: {
+					count: 1
+					id: "ae2:blank_pattern"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3075F33DA6C2ED3F"
+				item: { count: 1, id: "ae2:pattern_provider" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["381A71753A731C0C"]
+			id: "2A179E0AEEDAAB67"
+			tasks: [{
+				id: "419E69B304189068"
+				item: { count: 1, id: "ae2:molecular_assembler" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.5d
+		}
+	]
+}

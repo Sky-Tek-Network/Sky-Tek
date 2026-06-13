@@ -1,0 +1,11 @@
+{
+  "name": "Ember Crystal Charged",
+  "colors": [
+    "FF5E00",
+    "FF5E00"
+  ],
+  "ingredient": {
+    "item": "appgen:ember_crystal_charged"
+  },
+  "inUltimateSingularity": true
+}

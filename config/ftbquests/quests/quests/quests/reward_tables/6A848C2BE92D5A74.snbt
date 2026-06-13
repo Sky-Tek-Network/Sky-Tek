@@ -1,0 +1,81 @@
+{
+	id: "6A848C2BE92D5A74"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "decor_crate"
+	}
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "612CA5479FF4CD6A", item: { count: 1, id: "handcrafted:acacia_fancy_bed" } }
+		{ id: "4560962409050483", item: { count: 1, id: "handcrafted:bamboo_fancy_bed" } }
+		{ id: "765B5614155965B5", item: { count: 1, id: "handcrafted:birch_fancy_bed" } }
+		{ id: "387ACD1DAC15F37B", item: { count: 1, id: "handcrafted:cherry_fancy_bed" } }
+		{ id: "1D339BDD8E6EBD04", item: { count: 1, id: "handcrafted:crimson_fancy_bed" } }
+		{ id: "0B006D01F00E599B", item: { count: 1, id: "handcrafted:dark_oak_fancy_bed" } }
+		{ id: "41853682DF1F135E", item: { count: 1, id: "handcrafted:jungle_fancy_bed" } }
+		{ id: "156ECBB1C4D6446F", item: { count: 1, id: "handcrafted:mangrove_fancy_bed" } }
+		{ id: "09C534FB6A96F9D2", item: { count: 1, id: "handcrafted:oak_fancy_bed" } }
+		{ id: "20D1BC1BC0A96B46", item: { count: 1, id: "handcrafted:spruce_fancy_bed" } }
+		{ id: "68C35852461E1799", item: { count: 1, id: "handcrafted:warped_fancy_bed" } }
+		{ id: "7B504795CB0F4771", item: { count: 1, id: "jammy_furniture:tv" } }
+		{
+			count: 16
+			id: "47C5083E563F8ECB"
+			item: {
+				count: 1
+				id: "jammy_furniture:extcarpet_27"
+			}
+		}
+		{ id: "3A1F05F3409C5F49", item: { count: 1, id: "jammy_furniture:washingmachine" } }
+		{ id: "70141C5BAEF81C48", item: { count: 1, id: "furnitureexpanded:bathroom_sink" } }
+		{ id: "6BB4FF61AC84C59F", item: { count: 1, id: "furnitureexpanded:towel_bar" } }
+		{ id: "4D5879DCBFC220ED", item: { count: 1, id: "furnitureexpanded:file_cabinet" } }
+		{ id: "4061F6AC463E2B13", item: { count: 1, id: "furnitureexpanded:bedsheet_coral_purple" } }
+		{
+			count: 16
+			id: "1DF617294FFDBB72"
+			item: {
+				count: 1
+				id: "jammy_furniture:extcarpet_25"
+			}
+		}
+		{
+			count: 8
+			id: "350F0B8A08E38A61"
+			item: {
+				count: 1
+				id: "industriallightmod:light_pillar_single_white"
+			}
+		}
+		{
+			count: 4
+			id: "7432EEE721E05813"
+			item: {
+				count: 1
+				id: "industriallightmod:flat_centre_light_bulb_cyan"
+			}
+		}
+		{ id: "6168686CB7BF4263", item: { count: 1, id: "torchmaster:feral_flare_lantern" } }
+		{
+			count: 8
+			id: "6C4C81B6C2DF842C"
+			item: {
+				count: 1
+				id: "mcwdoors:garage_white_door"
+			}
+		}
+		{ id: "50F0B97710814E09", item: { count: 1, id: "productivetrees:purple_ipe_door" } }
+		{ id: "38F7B50FC670595C", item: { count: 1, id: "mcwdoors:crimson_bamboo_door" } }
+		{ id: "4DEFF0A74E2EF46D", item: { count: 1, id: "productivetrees:padauk_door" } }
+		{ id: "59B2D0D9B387DEA6", item: { count: 1, id: "productivetrees:red_banana_door" } }
+		{ id: "1559AD0DE97BEFBB", item: { count: 1, id: "various_world:crystalic_oak_door" } }
+		{ id: "41F4494DAB9A9F7C", item: { count: 1, id: "industriallightmod:hanging_rod_light_blue" } }
+		{ id: "106DBFA665031B90", item: { count: 1, id: "industriallightmod:flat_centre_light_bulb_red" } }
+	]
+}

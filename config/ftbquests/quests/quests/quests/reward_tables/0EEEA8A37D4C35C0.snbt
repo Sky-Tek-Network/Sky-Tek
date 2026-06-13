@@ -1,0 +1,10 @@
+{
+	id: "0EEEA8A37D4C35C0"
+	loot_size: 1
+	order_index: 5
+	rewards: [{
+		amount: 100.0d
+		id: "4791C2279AAA46D5"
+		type: "dicemcmm:moneyreward"
+	}]
+}

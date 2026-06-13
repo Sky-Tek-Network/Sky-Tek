@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"immersiveengineering:cokebrick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthecompressed:clay_1x"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:steam_engine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:fluid_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersiveengineering:hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

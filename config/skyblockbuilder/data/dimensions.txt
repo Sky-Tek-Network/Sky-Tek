@@ -1,0 +1,10 @@
+minecraft:overworld
+allthemodium:the_beyond
+allthemodium:the_other
+minecraft:the_end
+allthemodium:mining
+minecraft:the_nether
+compactmachines:compact_world
+deeperdarker:otherside
+irons_spellbooks:pocket_dimension
+ae2:spatial_storage

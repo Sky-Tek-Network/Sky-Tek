@@ -1,0 +1,6 @@
+deeperdarker:cave
+deeperdarker:low_cave
+minecraft:canyon
+minecraft:cave
+minecraft:cave_extra_underground
+minecraft:nether_cave

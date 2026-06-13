@@ -1,0 +1,11 @@
+{
+  "name": "Replica Ingot",
+  "colors": [
+    "000000",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "replication:replica_ingot"
+  },
+  "inUltimateSingularity": true
+}

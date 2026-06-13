@@ -1,0 +1,7 @@
+{
+  "type": "exdeorum:crucible_heat_source",
+  "block_predicate": {
+    "block": "mekanism:superheating_element"
+  },
+  "heat_value": 60
+}

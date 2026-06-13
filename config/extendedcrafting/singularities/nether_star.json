@@ -1,0 +1,11 @@
+{
+  "name": "Nether Star",
+  "colors": [
+    "FFFFFF",
+    "FFFFFF"
+  ],
+  "ingredient": {
+    "item": "minecraft:nether_star"
+  },
+  "inUltimateSingularity": true
+}

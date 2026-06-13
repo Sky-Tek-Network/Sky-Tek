@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_3"
+	group: "7ADDDA79E5AB2C62"
+	icon: {
+		id: "ars_nouveau:source_gem"
+	}
+	id: "7B7FC1E51E7E11D7"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "46A9786CFF51BDBE"
+			tasks: [{
+				id: "440254D55AF5139D"
+				item: { count: 1, id: "immersiveengineering:light_engineering" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"46A9786CFF51BDBE"
+				"7CD8EA614EE02439"
+			]
+			id: "2A4613476CDA5854"
+			tasks: [{
+				id: "08021639A0656D5B"
+				item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "088C65D3340531BB"
+			tasks: [{
+				id: "405E28FEF0EF1595"
+				item: { count: 1, id: "modern_industrialization:forge_hammer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["088C65D3340531BB"]
+			id: "7CD8EA614EE02439"
+			tasks: [{
+				id: "0A6A2CC7B49871AA"
+				item: { count: 1, id: "modern_industrialization:gold_bolt" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2A4613476CDA5854"]
+			id: "4367B280B0103179"
+			tasks: [
+				{
+					id: "0D4D37516D999F75"
+					item: { count: 1, id: "ars_nouveau:source_gem" }
+					type: "item"
+				}
+				{
+					id: "45B65015002955A6"
+					item: { count: 1, id: "ars_nouveau:source_gem_block" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4367B280B0103179"]
+			id: "7D517DD469685F3F"
+			tasks: [
+				{
+					id: "322704935AA23B16"
+					item: { count: 1, id: "ars_nouveau:enchanting_apparatus" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5E7682C5AA1D42D8"
+					item: { count: 1, id: "ars_nouveau:arcane_pedestal" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7D517DD469685F3F"]
+			id: "46E2394C8696DB68"
+			rewards: [{
+				count: 4
+				id: "1E7801537EE57E80"
+				item: {
+					count: 1
+					id: "ars_nouveau:bookwyrm_charm"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "659632C94BC70B26"
+				item: { count: 1, id: "ars_nouveau:storage_lectern" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["46A9786CFF51BDBE"]
+			id: "33AF89311829D14C"
+			tasks: [{
+				id: "13A7110DA1D3797D"
+				observe_type: 0
+				timer: 0L
+				to_observe: "immersiveengineering:crusher"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["46A9786CFF51BDBE"]
+			id: "35A299CCA1BDA589"
+			tasks: [{
+				id: "586DBE8654F4B494"
+				observe_type: 0
+				timer: 0L
+				to_observe: "immersiveengineering:squeezer"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["46A9786CFF51BDBE"]
+			id: "6036172DF34837B5"
+			tasks: [{
+				id: "60F3DDDDB4865EA4"
+				observe_type: 0
+				timer: 0L
+				to_observe: "immersiveengineering:bottling_machine"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6036172DF34837B5"
+				"35A299CCA1BDA589"
+				"33AF89311829D14C"
+			]
+			id: "0BD9274176B9F07E"
+			tasks: [{
+				id: "0C3160B53DC4A2D2"
+				item: { count: 1, id: "immersiveengineering:plate_hop_graphite" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+	]
+}

@@ -1,0 +1,15 @@
+// Compost colors for justdynathings. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_light_wand, #aa9379
+advanced_time_wand, #32a55a
+blazegold_chisel, #b55a4b
+celestigem_chisel, #5ca59a
+eclipse_alloy_chisel, #554344
+ferricore_chisel, #989d93
+goo_upgrader_t1, #937973
+goo_upgrader_t2, #8e5b50
+goo_upgrader_t3, #284d48
+goo_upgrader_t4, #2f292d
+light_wand, #aeb59d
+picker_wand, #4a6b96
+swapper_wand, #69433e
+temporal_stupefy_wand, #8682ac
